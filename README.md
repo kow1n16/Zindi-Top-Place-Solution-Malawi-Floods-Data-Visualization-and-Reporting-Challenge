@@ -1,8 +1,8 @@
 # Zindi-Top-Place-Solution-Malawi-Floods-Data-Visualization-and-Reporting-Challenge
   
-The objective of this challenge was to interpret and generate insights from the data on the 2015 flooding and its aftermath specifically in southern Malawi.
+The objective of this challenge -organised by Zindi in collaboration with UNICEF and ARM- was to interpret and generate insights from the data on the 2015 flooding and its aftermath specifically in southern Malawi.  (https://zindi.africa/competitions/2030-vision-data-visualization-and-reporting-challenge/)
  
-This repository contains the final submission report, as as well as some datasets used for the challenge. 
+This repository contains my final submission report which produced a top place finish, as as well as some datasets I used for the challenge. 
  
 The original pbix solution file will be uploaded as well.  Links to the various data sources can be found below:
  
