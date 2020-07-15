@@ -1,0 +1,732 @@
+CODE,NAME,COMMON NAME,OWNERSHIP,TYPE,STATUS,ZONE,DISTRICT,DATE OPENED,Year_Opened,LATITUDE,LONGITUDE
+NN290328,Dambe,Dambe,Government,Health Centre,Functional,South East Zone,Neno,Apr 25th 2016,After-Flood,-15.6851,34.575
+ZA231305,Sadzi Health Centre,Sadzi,Government,Health Centre,Functional,South West Zone,Zomba,Aug 1st 12,Before Flood,-15.40882,35.31969
+BLK171117,Namanolo Health Centre,Namanolo,Government,Health Centre,Functional,South West Zone,Balaka,Aug 6th 86,Before Flood,-15.00071,35.19004
+ZA230755,Machinjiri Health Centre,Joyce Banda,Government,Health Centre,Functional,South West Zone,Zomba,Dec 14th 08,Before Flood,-15.23666,35.41707
+PE220453,Holy Family Mission,Banja loyera,Christian Health Association of Malawi (CHAM),Hospital,Functional,South West Zone,Phalombe,Dec 29th 60,Before Flood,-15.82471,35.61875
+PE220263,Chiringa Maternity,Chiringa,Government,Unclassified,Functional,South West Zone,Phalombe,Dec 29th 74,Before Flood,-15.76583,35.76216
+PE221122,Nambiti,Nambiti,Government,Health Post,Functional,South West Zone,Phalombe,Dec 29th 74,Before Flood,-15.80293,35.76392
+PE220283,Chitekesa ,Chitekesa,Government,Health Centre,Functional,South West Zone,Phalombe,Dec 29th 75,Before Flood,-15.55218,35.57244
+PE220264,Chiringa CHAM,Chiringa CHAM,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Phalombe,Dec 29th 86,Before Flood,-15.77213,35.76965
+PE221481,Waruma,Waruma,Government,Health Post,Functional,South West Zone,Phalombe,Dec 30th 00,Before Flood,-15.77085,35.55093
+PE221052,Mulungu Alinafe ,Mulungu Alinafe,Private,Dispensary,Functional,South West Zone,Phalombe,Dec 30th 06,Before Flood,-15.85719,35.81552
+MHG190194,Chikweo Health Centre,Chikweo,Government,Health Centre,Functional,South West Zone,Machinga,Dec 30th 74,Before Flood,-14.7655,35.66691
+CZ260233,CHIMWAWA,Chimwawa,Government,Health Centre,Non-functional,South East Zone,Chiradzulu,Dec 30th 74,Before Flood,-15.909166,35.258729
+CZ260261,Chiradzulu District Hospital,Chiradzulu District Hospital,Government,District Hospital,Functional,South East Zone,Chiradzulu,Dec 30th 74,Before Flood,-15.71072,35.17419
+BT240354,Dr. Dzinyemba,Dr. Dzinyemba,Private,Clinic,Functional,South East Zone,Blantyre,Dec 30th 74,Before Flood,-15.78609,35.00663
+TO310780,Mangunda Health Centre,Mangunda,Government,Health Centre,Functional,South East Zone,Thyolo,Dec 30th 74,Before Flood,-16.02884,35.26166
+CZ260804,Malavi Dispensary,Malavi,Government,Dispensary,Functional,South East Zone,Chiradzulu,Dec 30th 74,Before Flood,-15.83686,35.14867
+PE221150,Gogo Nazombe,Gogo Nazombe,Government,Health Centre,Functional,South West Zone,Phalombe,Dec 31st 01,Before Flood,-15.75233,35.77498
+PE221120,Nambazo ,Nambazo,Government,Health Centre,Functional,South West Zone,Phalombe,Dec 31st 73,Before Flood,-15.55919,35.81566
+CZ260079,Bilal Islamic Clinic,Bilal islamic,Private,Hospital,Functional,South East Zone,Chiradzulu,Dec 31st 74,Before Flood,-15.74149,35.13047
+CZ260099,BLM Midima Clinic,Midima BLM,Non-Government,Dispensary,Non-functional,South East Zone,Chiradzulu,Dec 31st 74,Before Flood,-15.83121,35.08006
+MJ210145,Chambe Health Centre,Chambe Health Centre,Government,Health Centre,Functional,South West Zone,Mulanje,Dec 31st 74,Before Flood,-16.071315,35.482338
+MJ210249,Chinyama Health Centre,Chinyama Health Centre,Government,Health Centre,Functional,South West Zone,Mulanje,Dec 31st 74,Before Flood,-16.03822,35.70899
+MJ210273,Chisitu Health Centre,Chisitu,Government,Health Centre,Functional,South West Zone,Mulanje,Dec 31st 74,Before Flood,-16.00103,35.4326
+TO310274,Chisoka Health Centre,Chisoka Health centre,Government,Health Centre,Functional,South East Zone,Thyolo,Dec 31st 74,Before Flood,-15.94181,35.20879
+MJ210311,Chonde Health Centre,Chonde,Government,Health Centre,Functional,South West Zone,Mulanje,Dec 31st 74,Before Flood,-15.99708,35.32333
+MHG190419,Gawanani Health Centre,Gawanani,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Machinga,Dec 31st 74,Before Flood,-15.2238,35.20293
+TO310431,Gombe Health Centre,Gombe,Government,Health Centre,Functional,South East Zone,Thyolo,Dec 31st 74,Before Flood,-16.37,35.23
+TO310631,Khonjeni Health Centre,Khonjeni health centre,Government,Health Centre,Functional,South East Zone,Thyolo,Dec 31st 74,Before Flood,-16.09692,35.27129
+CZ260929,Milepa Health Centre,Milepa,Government,Health Centre,Functional,South East Zone,Chiradzulu,Dec 31st 74,Before Flood,-15.68713,35.31818
+MJ210989,Mpala Health Centre,kwa Gunde,Government,Health Centre,Functional,South West Zone,Mulanje,Dec 31st 74,Before Flood,-16.14386,35.52479
+PE220993,Mpasa Health Centre,Mpasa,Government,Health Centre,Functional,South West Zone,Phalombe,Dec 31st 74,Before Flood,-15.7579,35.61142
+PE221203,Nkhulambe,Nkhulambe,Government,Health Centre,Functional,South West Zone,Phalombe,Dec 31st 74,Before Flood,-15.85949,35.74751
+PE221263,Phalombe,Phalombe,Government,Health Centre,Functional,South West Zone,Phalombe,Dec 31st 74,Before Flood,-15.80677,35.64918
+CZ261328,Servant of the Blessed Virgin Mary Sisters Imanol Larranaga Pvt Clinic,Mary Sisters,Christian Health Association of Malawi (CHAM),Dispensary,Functional,South East Zone,Chiradzulu,Dec 31st 74,Before Flood,,
+PE220920,Migowi,Migowi,Government,Health Centre,Functional,South West Zone,Phalombe,Dec 31st 84,Before Flood,-15.71922,35.68542
+PE220952,Mkhwayi Health Centre,Mkhwayi,Government,Health Centre,Functional,South West Zone,Phalombe,Dec 6th 88,Before Flood,-15.61457,35.62787
+NN291160,Neno District Hospital,Neno District Hospital,Government,District Hospital,Functional,South East Zone,Neno,Feb 10th 07,Before Flood,-15.39524,34.65349
+ZA231119,Namasalima Health Centre,Namasalima,Government,Health Centre,Functional,South West Zone,Zomba,Feb 12th 80,Before Flood,-15.23142,35.48876
+BLK171185,Njerenje,Njerenje,Government,Clinic,Functional,South West Zone,Balaka,Feb 18th 12,Before Flood,-23,34
+BLK170884,Mbera Health Centre,Mbera,Government,Clinic,Functional,South West Zone,Balaka,Feb 23rd 96,Before Flood,-14.91088,35.05326
+ZA231182,Ngwelero Health Centre,Ngwelero,Government,Clinic,Functional,South West Zone,Zomba,Feb 5th 94,Before Flood,-15.66645,35.42718
+BLK171125,Nandumbo Health Centre,Nandumbo,Government,Health Centre,Functional,South West Zone,Balaka,Jan 10th 11,Before Flood,-14.85169,35.22552
+BLK171089,Mwima Health Post,Mwima,Government,Health Post,Functional,South West Zone,Balaka,Jan 12th 15,Before Flood,-14.92967,35.18498
+ZA230241,Chinguma,Chinguma,Government,Health Post,Functional,South West Zone,Zomba,Jan 1st 06,Before Flood,-15.230167,35.800284
+ZA230724,Lungazi,Lungazi,Government,Health Post,Functional,South West Zone,Zomba,Jan 1st 06,Before Flood,-15.418725,35.846034
+ZA231180,Ngotangota,Ngotangota,Government,Health Post,Functional,South West Zone,Zomba,Jan 1st 06,Before Flood,-15.295999,35.82282
+BLK170117,Buleya,Chingagwe,Government,Clinic,Functional,South West Zone,Balaka,Jan 1st 07,Before Flood,-542183,+70989711
+ZA230851,Masm Medi Clinic Zomba,Masm,Private,Clinic,Functional,South West Zone,Zomba,Jan 1st 08,Before Flood,-15.37823,35.331592
+BLK170054,Balaka Dream Clinic,Dream Clinic,Christian Health Association of Malawi (CHAM),Clinic,Functional,South West Zone,Balaka,Jan 1st 09,Before Flood,-15.00322,34.95248
+BLK170055,Balaka Private Clinic,Balaka Private Clinic,Private,Clinic,Functional,South West Zone,Balaka,Jan 1st 10,Before Flood,-14.98339,34.9617
+BLK170793,Makunganya Private Clinic,Maku private Clinic,Private,Clinic,Functional,South West Zone,Balaka,Jan 1st 11,Before Flood,-14.98521,34.94269
+ZA231515,HABIB MUSSA MEDICAL CLINIC,Habib Mussa,Private,Clinic,Functional,South West Zone,Zomba,Jan 1st 13,Before Flood,-15.390336,35.312330
+BLK170288,Chithandizo Private Clinic,Chinthandizo,Private,Clinic,Functional,South West Zone,Balaka,Jan 1st 14,Before Flood,-542183,56821457
+BLK170224,Chimatiro,Chimatiro,Government,Dispensary,Functional,South West Zone,Balaka,Jan 1st 15,Before Flood,-14.962681,35.023092
+CK270193,Chikwawa District Hospital,Chikwawa,Government,District Hospital,Functional,South East Zone,Chikwawa,Jan 1st 37,Before Flood,-16.0231,34.79346
+ZA230779,Magomero Rural Hospital,Magomero,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Zomba,Jan 1st 40,Before Flood,-15.56147,35.26101
+ZA231140,Nasawa Health Centre,Nasawa,Government,Health Centre,Functional,South West Zone,Zomba,Jan 1st 56,Before Flood,-15.6023,35.25956
+BT240962,Mlambe Mission Hospital,Mlambe,Christian Health Association of Malawi (CHAM),Hospital,Functional,South East Zone,Blantyre,Jan 1st 63,Before Flood,-15.64466,35.01733
+ZA231371,St. Lukes Mission Hospital,Malosa,Christian Health Association of Malawi (CHAM),Hospital,Functional,South West Zone,Zomba,Jan 1st 64,Before Flood,-15.20914,35.35291
+ZA230149,Chancellor College,Chanco clinic,Parastatal,Clinic,Functional,South West Zone,Zomba,Jan 1st 65,Before Flood,-15.38533,35.33213
+ZA230212,Chilipa Health Centre,Chilipa,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Zomba,Jan 1st 67,Before Flood,-15.32447,35.11715
+ZA231126,Namikango,Namikango,Christian Health Association of Malawi (CHAM),Clinic,Functional,South West Zone,Zomba,Jan 1st 72,Before Flood,-15.47723,35.24056
+ZA230868,Mayaka Health Centre,Mayaka,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Zomba,Jan 1st 73,Before Flood,-15.57355,35.3728
+BT240003,A-C Opticals,A.C Opticals,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.8,35.03
+BT240005,Akwezeke PVT Clinic,Akwezeke Pvt,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.84,35.09
+BT240006,AB Medical Clinic,Abowa,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.84000,35.09000
+ZA230015,Airwing Dispensary,Airwing,Government,Clinic,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.38876,35.38508
+CZ260018,Akasale Private Clinic,Akasale,Private,Hospital,Non-functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.7596,35.11493
+MHG190020,Alinafe Private,Alinafe,Private,Clinic,Non-functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.79853,35.44326
+MH200021,Alinafe private clinic,Alinafe Private Clinic,Private,Clinic,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.48,35.26
+CK270025,Alumenda Health Centre,Alumenda,Private,Health Centre,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.403467,34.885647
+TO310026,Amalika Dispensary,Amalika,Government,Dispensary,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-15.99203,35.03183
+BT240028,AMECA (Chilaweni),AMECA (Chilaweni),Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.703336,35.04442
+BT240029,Amitofo Health care centre,Amitofo,Non-Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+BT240032,Aquid Lifeline Project,Aquid Lifeline Clinic,Non-Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.62217,35.05604
+BT240041,Arthur Garden,Chitekwe,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.84000,35.0900
+MH200045,Assalam Clinic,As-slam clinic,Other,Clinic,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.54537,35.19221
+MH200047,Atupele Pvt Clinic,Atupele Pvt Clinic,Private,Dispensary,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.231804161355367,34.837612054143655
+BT240048,Auction Holdings,Auction Holdings Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81195,35.06417
+BT240051,Ayali Private Clinic,Ayali Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.6600,35.0200
+BLK170052,Balaka Blm Clinic,Balaka Banja La Mtsogolo clinic,Non-Government,Clinic,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-14.98876,34.95557
+BLK170053,Balaka District Hospital,Balaka District Hospital,Government,District Hospital,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-14.98498,34.94959
+MH200056,Bamusi Post,Bamusi Post,Government,Health Post,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,,
+BT240058,Bangwe BLM,Bangwe BLM,Non-Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+BT240059,Bangwe Health Centre,Bangwe,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-16.09081587719848,35.09400017569067
+BT240061,Banja Care Clinic,Banja Care Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-16.01,35.49
+BT240063,Banzi,Banzi,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+BT240068,Beit Cure International,Beit Cure,Non-Government,Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.80354,35.01753
+CK270069,Beleu Health Centre,Beleu,Government,Dispensary,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.15199,34.85376
+CK270070,Bello,Bello,Private,Dispensary,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.26044,34.86844
+BT240071,Belton Kapyepye Memorial Clini,Belton Kapyepye Memorial Clini,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.80869,34.99434
+BT240074,Bernald Kachale Pvt Clinic,Kachale,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.78018,35.07352
+TO310075,Bethesda,Bethesda,Private,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.01,35.31
+BT240078,"Bhuptani, Girishkumar C.",BKM PVT Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.78826,35.00554
+MH200082,Billy Riordan Memorial Dispensary,Billy Riordan clinic,Non-Government,Clinic,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.03205,34.84044
+ZA230083,Bimbi Health Centre,Bimbi,Government,Health Centre,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.30876,35.4794
+BT240084,Blantyre Adventist Hospital,Blantyre Adventist Hospital,Private,Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.926643734053442,34.82984271712712
+BT240085,Blantyre Civic Centre,City assembly,Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.8,35.04
+BT240086,Blantyre DHO Pharmarcy,Blantyre DHO Pharmarcy,Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT240087,Blantyre Dream Project (Mandala),Blantyre Dream Project (Mandala),Non-Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.79182,35.01273
+BT240088,Blantyre Medicare CityCentre Clinic City Centre Clinic Makadam Pvt Clinic,Blantyre Medicare CityCentre Clinic City Centre Clinic Makadam Pvt Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.786933,35.007778
+BT240089,Blantyre Water Board - Mudi,Blantyre Water Board - Mudi,Other,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.7953,35.03811
+BT240090,Blantyre Water Board - Walkers,Waterboard Clinic-Mudi,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+TO310093,BLM Bvumbwe Clinic,Banja la mtsogolo,Non-Government,Clinic,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-15.93133,35.08213
+MHG190096,BLM Liwonde Clinic,Banja la Mtsongolo,Non-Government,Clinic,Non-functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-15.0694,35.22766
+BT240097,BLM Lunzu,BLM Lunzu,Non-Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.65114,35.02028
+BT240104,BLM Sunny Side B,Banja Lamtsogolo,Non-Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.800,35.000 
+BT240105,BLM Zingwangwa Clinic,BLM Zingwangwa Clinic,Non-Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81847,35.01171
+MJ210106,Bloomfield,Bloomfield,Private,Dispensary,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.057405,35.673299
+TO310120,Bvumbwe Clinic - Limbe Muslim Jamat,Bvumbwe Clinic - Limbe Muslim Jamat,Non-Government,Dispensary,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,,
+TO310121,Bvumbwe Health Centre,Research,Government,Health Centre,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-15.93981,35.02633
+BT240129,Carlsberg / Sobo Blantyre,SOBO,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.79,35.03
+BT240133,Central East African Railways,Railways Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81536,35.0633
+BT240136,Chavala Health Centre,Chabvala,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.83372,34.83461
+CK270141,Chama,Chama,Private,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.264938,34.868513
+MHG190143,Chamba Dispensary,Chamba,Government,Dispensary,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-15.20234,35.42137
+CK270150,Chang'Ambika Health Centre,Chang'ambika,Government,Health Centre,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-15.80301,34.30928
+TO310152,Changata Health Centre,Changata,Government,Health Centre,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.078196,35.061008
+CK270154,"Chanza, Edwin, Erapecha Clinic",Erapecha,Private,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.26044,34.86844
+CK270155,Chapananga Health Centre,Mkadana,Government,Clinic,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.00551,34.48567
+MH200156,Chapola,Chapola,Private,Dispensary,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,,
+CK270157,Chapwaila Health Centre,Chipwaila Health Centre,Government,Health Centre,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.39842,34.77572
+MHG190159,Chapusa,Chapusa,Government,Health Post,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.94175,35.613673
+ZA230160,"chavula ,Henry k.Mpunga private clinic",chavula,Private,Clinic,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.41083,35.32392
+TO310161,Chawani,Chawone,Government,Dispensary,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.078196,35.061008
+MJ210168,Chibathi,Chibathi,Christian Health Association of Malawi (CHAM),Health Post,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.071315,35.482338
+BT240169,Chichiri Escom,Chichiri ESCOM Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.79342,35.02444
+BT240170,Chichiri Prison,Chichiri Prison Clinic,Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.80577,35.03242
+NE300172,Chididi Health Centre,Chididi,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.91495,35.17333
+BLK170173,Chiendausiku Health Centre,chiendausiku,Government,Health Centre,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-15.01855,35.07653
+BT240175,"Chifundo, Monje Pvt Clinic",Chifundo private clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.77562,34.98003
+NN290176,Chifunga Health Centre,Chifunga Health center,Government,Health Centre,Functional,South East Zone,Neno,Jan 1st 75,Before Flood,-15.59825,34.69892
+BT240177,Chigeli,Chogeli clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.841674,35.044006
+BT240180,Chigumula,Chigumula Clinic,Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.89,35.06
+MH200185,Chikole Health Centre,Chikole,Government,Clinic,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.422,35.38427
+BT240187,Chikowa Health Centre,Chikowa,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+MJ210189,Chikuli,chikuli,Private,Dispensary,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.052873,35.645496
+BT240198,Chilani,Chilani,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.82874,35.00677
+BT240202,Chileka Health Centre,Chileka,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT240204,Chileka SDA,Malamulo,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.65986,34.92904
+TO310205,Chilengo,Chilengo,Government,Dispensary,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.136105,35.015899
+BT240207,Chirimba health centre,Chirimba,Government,Dispensary,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.746368,35.022984
+MJ210210,Chilingwe,chilingwe,Private,Dispensary,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.004056,35.648588
+MH200211,Chilipa Health Centre,Chilipa,Government,Health Centre,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.6996,34.9732
+BT240213,Chilobwe,Chilobwe Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.83305,35.00742
+BT240215,Chilomoni,Chilomoni pvt clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.77435,34.98145
+BT240216,Chilomoni Health Centre,Chilomoni,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.77128,34.98156
+BT240217,Chilomoni BLM,BLM Chilomoni Clinic,Non-Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+MH200218,Chilonga Health care,Chilonga,Government,Health Centre,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.46684,34.87097
+TO310222,Chimaliro Health Centre,Chimaliro Health Centre,Government,Health Centre,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-15.97706,35.18162
+MHG190226,Chimbira,Chimbira,Government,Health Post,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.601369,35.805155
+BT240227,Chimembe Health Centre,Chimembe,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.77733,34.88548
+TO310230,Chimvu,Chimvu,Government,Health Centre,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-15.94198,35.12308
+ZA230235,Chinamwali Private Clinic,Maseko,Private,Clinic,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.3816,35.35584
+NE300236,Ching'oma Health Post,Ching'oma ,Government,Health Post,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.999306,35.109333
+TO310237,Chingadzi Rural Hospital,Chingadzi Hospital,Christian Health Association of Malawi (CHAM),Hospital,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-15.91842,35.20595
+ZA230238,Chingale Health Centre,Chingale,Government,Health Centre,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.39694,35.1808
+BT240242,Chinjovu,Chinjobvu clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.73676,35.0192
+TO310252,Chipho Health Centre,Chipho,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.171528,35.110222
+MHG190256,Chipolonga,Chipolonga,Government,Clinic,Non-functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.855441,35.685485
+MH200257,Chiponde Dispensary,Chiponde,Government,Dispensary,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.373431,35.601622
+BT240262,Chirani Pvt Clinic,Chilani,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+MJ210267,Chisambo Estate Clinic,chisambo,Other,Clinic,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.03822,35.70899
+ZA230270,Chisi Health Centre,Chisi ,Government,Health Centre,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.331323,35.618214
+TO310276,Chisomo Dental Clinic.,Chisomo Dental Clinic.,Private,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.01,35.31
+TO310278,Chisunga,Chisunga,Government,Health Post,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,,
+MHG190279,Chisuwi,Chisuwi,Government,Health Post,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.968767,35.45754
+BT240281,Chitawira Private Hospital,Gombwa,Private,Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81293,35.02274
+BT240284,Chitekwe Arthur D. Arthur Gar,Chitekwe Arthur D. Arthur Gar,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.83626,35.09193
+CZ260286,Chitera Health Centre,Chitera,Government,Health Centre,Functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.60646,35.12306
+TO310289,Chithebe Dispensary,chithebe dispensary,Government,Dispensary,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.00218,35.01294
+CK270291,Chithumba Health Centre,Chithumba Health Centre,Government,Health Centre,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-15.80369,34.47629
+MHG190295,Chitundu,Chitundu,Government,Health Post,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.915042,35.650339
+MH200296,Chiumbangame Dispensary,Chiumbangame,Government,Dispensary,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.31739,35.55721
+MH200297,Chiunda Dispensary,Chiunda,Government,Clinic,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.77744,35.43901
+ZA230317,City Clinic Zomba,Manicipality,Government,Clinic,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.39072,35.32416
+ZA230318,Cobbe Barracks,Barracks,Parastatal,Hospital,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.39094,35.30534
+BLK170321,Comfort Clinic,Andiamo,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-15.00318,34.95244
+ZA230322,Compassionate Mission Clinic,Mpinganjira,Private,Clinic,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.32402,35.39372
+BT240326,Dalirani,Dalirani Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.82529,35.08039
+BT240331,Dawn Private,Dawn Private,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+BT240332,"De Johnstone, maria I.M","De Johnstone, Maria I.M",Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+MJ210336,Demula,Demule,Christian Health Association of Malawi (CHAM),Health Post,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-15.962755,35.480067
+ZA230337,Dental Studio-Zomba Clinic,Dental Studio-Zomba Clinic,Private,Dispensary,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-1,1
+BT240342,District Health Office Mobile,District Health Office Mobile,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+MH200343,DMI-St. John the Baptist University Clinic,DMI-St. John the Baptist University Clinic,Private,Dispensary,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,,
+CK270345,Dolo Health Centre,Dolo,Government,Health Centre,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.55349,34.92423
+ZA230347,Domasi Rural Hospital,Ginisi,Government,Hospital,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.28099,35.39935
+BT240353,Dr Chilemba Surgery,Chilemba,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.7864,35.0008
+BT240356,Dr Kayange,Dr Kayange,Mission/Faith-based (other than CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+BT240358,Dr. Kidys,Dr. Kidys,Private,Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.78662,35.00755
+BT240359,Dr. S. Kampondeni,kampondeni,Private,Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81641,35.06629
+MJ210367,Dzenje Health Centre,Dzenje,Government,Health Centre,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.11695,35.40558
+TO310369,Didi Health Centre ,DiDi,Government,Health Centre,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.06096,34.98999
+TO310370,Dzimbiri Health Post,Dzimbiri Health Post,Government,Health Post,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.10202,34.99722
+BT240373,Dziwe Health Centre,Dziwe,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.56369,34.88038
+BT240377,Ebenezar,Ebenezer private clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.746697,35.020051
+MJ210381,Ekhamuno,Ekhamuno,Christian Health Association of Malawi (CHAM),Health Post,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.067525,35.462732
+BT240384,El-Barakah,El_ Barakah Private clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.68337,34.96584
+MJ210385,Eldorado Estate Clinic,Eldorado,Other,Clinic,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.06679,35.6139
+BT240386,Elim,Elim Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.8188,35.01231
+MJ210396,Esparanza Estate Clinic,esparanza,Other,Clinic,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.03395,35.50475
+BT240401,Family Health,Family Health clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.802603,35.051349
+MJ210409,Fomo Clinic,Fomo,Private,Clinic,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.00603,35.48167
+NN290410,Fpam Clinic,Fpam,Private,Dispensary,Functional,South East Zone,Neno,Jan 1st 75,Before Flood,-1,1
+CK270414,Gaga Health Centre,Gaga,Government,Health Centre,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-15.80678,34.36487
+BT240417,Gate Way,Gateway Dispensary,Government,Dispensary,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.804572,35.017828
+BT240418,"Gatrad, Mahomed I",Gatrad Mahomed I,Private,Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.78707,35.00625
+BT240421,Ginnery Corner BLM,Ginnery Corner BLM,Non-Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+BT240422,"Girach, Bilkis A",Girach,Private,Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.78721,35.00488
+MJ210423,Glenorchy Estate Clinic,Glenorchy,Other,Clinic,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-15.9833,35.48386
+BT240424,GM Opticals,GM Opticals,Mission/Faith-based (other than CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15,35
+BT240426,God Heals,God Heals,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+CK270429,Gola,Gola,Government,Health Centre,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-15.883962,34.299339
+TO310435,Gotha Dispensary,Gotha Dispensary,Private,Dispensary,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.09239,35.19011
+TO310436,Gotha Estate Clinic,Gotha Estate Clinic,Government,Clinic,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-15.77213,35.76965
+CK270439,Grecious,Grecious,Private,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.26,34.87
+ZA230443,H Parker Sharp Dispensary,H Parker,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.29912,35.36092
+MH200444,H.M.C private clinic,H.M.C Private Clinic,Private,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.22,35.03
+TO310445,Halena Oakely/Ntambanyama Health Centre,Ntambanyama,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.12668,35.08457
+BT240447,Hasco,Hasco Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.77738,35.00621
+BT240448,Healing Hearts,Healing Hearts,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.74,35.01
+BT240449,Henred,Henred,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.78901,35.03458
+TO310450,"Hiwa, Garfield J. Monekera Pri",Hiwa Clinic,Private,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-15.92686,35.08661
+BT240454,Hope Medical centre,Hope Medical centre,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+CK270455,Hope Village,Hope,Private,Dispensary,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.106218,34.832659
+ZA230458,Hunger,Hunger,Non-Government,Clinic,Non-functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.500005,35.470979
+CK270459,Hunger Clinic,Hunger Clinic,Government,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.27045,34.86368
+MH200460,Iba Dispensary,Iba dispensery,Government,Clinic,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.30711,35.39707
+CK270463,Illovo Factory Estate Clinic - Nchalo,Illovo Factory Estate Clinic - Nchalo,Private,Dispensary,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,,
+MH200469,Jalasi Health Centre,Jalasi,Government,Clinic,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.36298,35.44253
+TO310472,Jeofia,Jeofia Private Clinic,Private,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.00758,35.30825
+BT240473,"Jere, Raymond M. Medicare",Medicare,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.78671,35.00799
+BT240485,Kachere Rehabilitation Centre,Kachere Rehabilitation,Non-Government,Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.80339,35.01819
+MH200488,Kadango Dispensary,Kadango,Government,Clinic,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.060711,35.186208
+TO310489,Kadango Health Centre,Kadango Private Clinic.,Private,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.00683,35.31009
+BT240490,Kadidi Health Centre,Kadidi,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.66083,35.02212
+CK270495,Kakoma Health Centre,Kakoma,Government,Health Centre,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.09819,34.62398
+NE300496,Kalemba Community Hospital,Kalemba,Christian Health Association of Malawi (CHAM),Hospital,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.57572,35.11207
+BLK170497,Kalembo Health Centre,Kalembo,Government,Health Centre,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-14.84268,35.17081
+TO310504,"Kaliwo, Ignacious S. Luchenza",Luchenza Private clinic,Private,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.00796,35.30939
+BT240506,Kalong - Limbe,Kalong - Limbe,Mission/Faith-based (other than CHAM),Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.80902,35.05916
+CK270508,"Kalulu Health Centre, Chikwawa","Kalulu Health Centre, Chikwawa",Government,Dispensary,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,,
+MJ210515,Kambenje Health Centre,Kambenje,Government,Health Centre,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-15.85308,35.56394
+NE300522,Kamphata Health Post,Kamphata,Government,Health Post,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-17.0468,35.21658
+MJ210531,Kamwendo,Kamwendo,Government,Health Post,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-15.674962,35.476907
+BT240538,Kanjedza MASM Clinic,Kanjedza MASM Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+BT240539,Kanjedza Medical centre,Kanjedza Medical Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81,35.05
+BT240540,Kanjedza Police,Kanjeza Police dispensary,Government,Dispensary,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.815721,35.048525
+BLK170541,Kankao Health Centre,Kankao,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-15.05425,34.92264
+MH200545,"Kanyerere, Stuart. Stuka Priva",Stuka Private Clinic,Private,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.48245,35.26128
+NE300548,Kanyimbi Health Post,Kanyimbi,Government,Health Post,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.69453,34.967
+BT240556,Kapeni Dream Centre,Kapeni Dream Centre,Christian Health Association of Malawi (CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.62,35.01
+CK270561,Kapichira Egenco Clinic,Egenco Clinic,Private,Clinic,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-15.894817,34.757519
+MH200563,Kapire Dream Centre,Kapire,Christian Health Association of Malawi (CHAM),Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.786,34.99902
+BT240574,Kasamba,Kasamba Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.84,35.09
+TO310577,Kasembeleka,Kasembereka Dispensary,Private,Dispensary,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.12131,35.09902
+CK270582,Kasinthula Dispensary,kasinthula,Government,Dispensary,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.07416,34.81651
+MH200594,Katema Health Centre,Katema,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.52563,35.03761
+MH200602,Katuli Health Centre,Katuli,Government,Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.17962,35.44476
+MHG190614,Kawinga Dispensary,Nanyumbu,Government,Dispensary,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.85468,35.57198
+MH200617,"Kayumba, Jerome. Tulame Privat",Tulame,Private,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.69346,35.17977
+BT240619,Khama Private Clinic,Khama Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.65358887503056,34.9057758468748
+MJ210621,Khamalathu Private Clinic,Khamalathu,Private,Clinic,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.10652,35.34491
+MJ210623,Khaya,Khaya,Christian Health Association of Malawi (CHAM),Clinic,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-15.989057,35.394598
+CK270624,Khokhwa,Khokhwa,Government,Health Post,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.526844,34.846862
+MJ210628,Khongoloni,Khongoloni,Private,Dispensary,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.134032,35.530613
+MHG190630,"Khonje, Anaclate P, Twapochele",Twapochele,Private,Clinic,Non-functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.99535,35.49268
+BT240633,"Khuoge, Dane","Khuoge, Dane",Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.76708,35.07471
+MH200636,Koche Community Hospital,Koche hospital,Christian Health Association of Malawi (CHAM),Hospital,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.33343,35.14335
+BT240639,Kotecha Leesha D.,Kotecha Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.7895,35.08616
+CK270641,Kubalalika Health Post,Kubalalika,Government,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-15.90796,34.39405
+MH200642,Kukalanga Dispensary,Kukalanga,Government,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.63744,35.18031
+TO310643,Kumadzi Dispensary,Kumadzi,Private,Dispensary,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.1003,35.28876
+MN280646,Kunenekude Health Centre,Kunenekude,Government,Health Centre,Functional,South East Zone,Mwanza,Jan 1st 75,Before Flood,-15.46467,34.49142
+BLK170649,Kwitanda Health Centre,Kwitanda,Non-Government,Clinic,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-15.06495,35.093
+MH200650,L.M.J.Clinic,L.M.J Private Clinic,Private,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.29,35.1
+BT240651,Lafarge Cement,Lafarge Cement Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.79231,35.02812
+ZA230653,Lambulira Health Centre,Chilombo,Government,Health Centre,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.4841,35.337
+MJ210654,Lauderdale Estate Clinic,Lauderdale,Government,Clinic,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.04331,35.53515
+CK270656,Lengwe Estate Clinic,Lengwe Estate Clinic,Private,Dispensary,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,,
+ZA230659,Lifelane Private clinic,Lifelane,Private,Clinic,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.387836,35.318089
+MHG190661,Lifune Maternity,Lifune,Government,Clinic,Non-functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.69513,35.70615
+MJ210666,Likanga Estate Clinic,Likanga,Private,Clinic,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.08306,35.58609
+MHG190668,Likhonyowa,Likhonyowa,Government,Health Post,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.959359,35.790527
+BT240677,Limbe Diagnostic,Diagnostics,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81863,35.05639
+BT240678,Limbe Health Centre,Limbe,Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT240679,Limbe Home Based Care,Limbe Home Based Care,Non-Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81714,35.05187
+BT240680,Limbe Leaf Tobacco - Limbe,Limbe Leaf Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81361,35.07035
+BT240682,Limbe Medical Clinic,limbe Medical Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81,35.06
+BT240683,Limbe Muslim,Limbe Muslim,Mission/Faith-based (other than CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+BT240684,Limbe Muslim Jamat - Blantyre,Limbe Muslim Jamat - Blantyre,Mission/Faith-based (other than CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-16.031211861657617,35.482467026519316
+BT240685,Limbe Muslim Jamat - Diagnostic,LMJ Diagnostic centre,Other,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.82,35.06
+BT240686,Limbe Muslim Jamat - Habiba Mussa Clinic,Limbe Muslim Jamat - Habiba Mussa Clinic,Mission/Faith-based (other than CHAM),Dispensary,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-1,1
+BT240687,Limbe Muslim Jamat - Kachere,Limbe Muslim Jamat - Kachere,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81,35.06
+BT240688,Limbe Muslim Jamat - Kanjedza,LMJ,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81,35.06
+BT240689,Limbe Muslim Jamat - Limbe,Limbe Muslim Jamat Limbe,Other,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.82,35.06
+BT240690,Limbe Muslim Jamat - Makhetha,Hajira,Other,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.78,35.07
+BT240691,Limbe Muslim Jamat - Mbayani,Limbe Muslim Jamat - Mbayani,Mission/Faith-based (other than CHAM),Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+BT240692,Limbe Muslim Jamat Clinic,Limbe Muslim Jamat Clinic,Mission/Faith-based (other than CHAM),Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+MJ210693,Limbuli Estate Clinic,Limbuli,Private,Clinic,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.05504,35.72129
+MJ210695,"Lingalawe, Albert. Chiluli Pri",Lingalawe,Private,Clinic,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.00946,35.48489
+BT240698,Lirangwe Health Centre,Lilangwe,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.52963,35.02973
+NN290700,Lisungwi Community Hospital,Lisungwi Community Hospital,Government,Hospital,Functional,South East Zone,Neno,Jan 1st 75,Before Flood,-1,1
+MH200705,Liwonde Medical Clinic,Chili kumtima,Private,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-15.06782,35.22473
+MHG190706,Liwonde Medical Clinic, Chilikumtima,Private,Dispensary,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-15.06782,35.22473
+MH200710,Logos pvt clinic,Logos pvt clinic,Mission/Faith-based (other than CHAM),Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,,
+MH200714,Lugola Health Centre,Lugola,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-13.96144,35.14285
+MJ210715,Lujeri Health Centre,Lujeri Health Centre,Private,Health Post,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-15.987206,35.416687
+MH200716,Lukoloma Health Post,Lukoloma,Government,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-13.834763,35.103171
+MH200717,Lulanga Health Centre,Lulanga,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-13.68744,34.91742
+NE300718,Lulwe Health Centre,Lulwe mission,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-17.08765,35.11415
+TO310721,"Lumbe, John L.",Mdziwika Clinic,Private,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-15.92153,35.08464
+BT240722,Lumbira / Mitsidi Health Centre,Mitsidi,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.77702,34.96873
+BT240723,Lundu Health Centre,Lundu,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.42185,35.01294
+BT240725,Lungu,Lungu Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.82999,35.07883
+MH200726,Lungwena Health Centre,Lungwena,Government,Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.24501,35.24804
+MH200737,Luwalika Health Centre,Luwalika,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.23797,35.46952
+NN290738,Luwani Health Centre,Luwani Health Centre,Government,Health Centre,Functional,South East Zone,Neno,Jan 1st 75,Before Flood,-1,1
+MJ210739,Luwanje,Luwannje Health Post,Christian Health Association of Malawi (CHAM),Health Post,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-15.987206,35.416687
+ZA230747,M'mambo Health Centre,M'mambo,Government,Health Centre,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.26264,35.15945
+CK270749,"Mabwera, Walson D. Chinyanje P",Chinyanje,Private,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.04313,34.79894
+MHG190752,Machinga District Hospital,ku District,Government,District Hospital,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-15.06229,35.2263
+MHG190753,Machinga Health Centre,Machinga Boma,Government,Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-15.1773,35.29565
+MHG190754,Machinga Private Clinic,Machinga Private Clinic,Mission/Faith-based (other than CHAM),Clinic,Non-functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.87401,35.52903
+BT240756,Macro -Blantyre,Macro -Blantyre,Non-Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+MHG190761,Madalitso Private Clinic,Madalitso Clinic,Private,Clinic,Non-functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.99319,35.49219
+MH200764,Madalitso Pvt Clinic,Madalitso Pvt Clinic,Private,Dispensary,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,,
+BT240766,Madina Social Services,Madinah social services - Ndirande,Non-Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.82931,35.07405
+MH200767,Madinah Social Services Mobile Clinic,Madinah Social Services Mobile Clinic,Private,Dispensary,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,,
+BT240770,Madziabango Health Centre,Madziabango,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.9678,34.90825
+CK270772,Mafale,mafale,Government,Dispensary,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.286443,34.838562
+TO310774,Mafisi Health Centre,Mafisi,Private,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.06805,35.25101
+NN290776,Magaleta Health Centre,Magaleta,Government,Health Centre,Functional,South East Zone,Neno,Jan 1st 75,Before Flood,-15.55083,34.62836
+MH200777,Maganga,Maganga,Private,Dispensary,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,,
+CK270783,"Mainjeni, Fyson W D. Fema Priv",Fema,Private,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.26676,35.06284
+CK270784,Majete,Majete,Government,Health Centre,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-13.000,22.000
+TO310785,Makande,Makande,Government,Health Post,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,,
+MH200786,Makanjira Health Centre,Makanjira,Government,Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-13.71591,35.04704
+TO310787,Makapwa Health Centre,Makapwa Health Centre,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.18199,35.27984
+BT240788,Makata Health Centre,Makata,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.62996,35.07964
+NE300789,Makhanga Health Centre,Makhanga,Government,Health Centre,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.33721,35.09671
+BT240790,Makhetha,Makhetha health centre,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.62996,35.07964
+CK270791,Makhwira Health Centre,Makhwira,Government,Health Centre,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.19483,35.01065
+TO310794,Makungwa,Makungwa,Government,Health Centre,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-1,1
+ZA230795,Makwapala Health Centre,Mwakwapala,Government,Health Centre,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.36938,35.4506
+TO310797,Makwasa Estate Clinic,Makwasa Estate Clinic,Private,Dispensary,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,,
+TO310798,Makwasa Estate Clinic,Dispensory,Other,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.19476,35.10564
+BT240799,Malabada health centre,Malabada,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.630113603118772,34.93163766777741
+MH200800,Malalwi Army Marine Dispensary,Malawi Army Marine,Government,Dispensary,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.073,34.91684
+BT240802,Malamulo Day - Amina,Malamulo day Amina,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.80361,35.07471
+TO310803,Malamulo Mission Hospital,Malamulo Mission Hospital,Christian Health Association of Malawi (CHAM),Hospital,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.17155,35.11011
+BT240806,Malawi Polytechnic,Polytechnic,Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.80207,35.02718
+MH200807,Maldeco Fisheries Clinic,Maldeco Fisheries Clinic,Private,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.3335,35.1492
+MH200808,Malembo Health Centre,Malembo,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.23628,34.82524
+MH200810,Maleta Health Post,Maleta,Government,Health Post,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-13.92942,35.26355
+MHG190813,Malingamoyo Private Clinic,Kumalinga moyo,Private,Clinic,Non-functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.87031,35.5294
+BT240815,Malmed,Malmed,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+MH200817,Malombe Dispensary,Malombe,Government,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.6305,35.34912
+MH200820,Malukula Health Centre,Malukula,Government,Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.44362,35.35582
+MH200824,Mama Khadija Private Clinic Na,Mama khadija,Private,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.3708,35.49405
+MHG190827,Mangamba Health Centre,Mangamba,Government,Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.79145,35.43652
+MH200828,Mangochi BLM,Mangochi Banja la mtsogolo,Non-Government,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.48185,35.26157
+MH200829,Mangochi District Hospital,Mangochi district hospital,Government,District Hospital,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.48191,35.26527
+CK270830,Mangulenje Health Centre,Mangulenje Health Centre,Government,Health Centre,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.10534,34.9157
+MH200837,Maoni Health Post,Maoni,Christian Health Association of Malawi (CHAM),Health Post,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.51126,34.997467
+TO310839,Mapanga Clinic,Mapanga Maternity,Government,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.03764,35.01675
+CK270840,Maperera Health Centre,Maperera,Government,Health Centre,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.10534,34.9157
+BT240841,Mapeto David White head,Mapeto,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.79,35.03
+CK270843,Masache Private Clinic,Masache,Private,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.27028,34.87344
+MH200845,Mase Health Centre,Mase,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.58096,35.36386
+NE300846,Masenjere Health Centre,Masenjere,Government,Health Centre,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.33721,35.09671
+BT240848,Masm Medi - Limbe,Masm Medi - Limbe,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.812582,35.055045
+NN290854,Matandani Health Centre,Matandani Health Centre,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Neno,Jan 1st 75,Before Flood,-15.33071,34.65321
+ZA230856,Matawale Health Centre,Matawale,Government,Health Centre,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.39029,35.35958
+ZA230861,Matiya Rural Hospital,Matiya,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.53371,35.5478
+NN290862,Matope Health Centre,Matope Health Centre,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Neno,Jan 1st 75,Before Flood,-15.3537,34.94732
+CZ260867,Mauwa Health Centre,Mauwa,Government,Health Centre,Functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.65283,35.2498
+MH200874,Mbalama Dispensary,Mbalama,Government,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.71435,35.49846
+TO310875,Mbalanguzi,Mbalanguzi Heallth Post,Christian Health Association of Malawi (CHAM),Health Post,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.250872,35.166657
+MHG190879,Mbanira,Mbanira,Government,Health Post,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.975262,35.598659
+BT240881,Mbayani ,Mbayani health Centre,Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.775577,35.000875
+BT240882,Mbayani Health Care Clinic ,Mbayani Health Care Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.765541,35.004675
+NE300883,Mbenje Health Centre,Mbenje,Government,Health Centre,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.99464,35.22079
+MJ210886,Mbiza Health Centre,kwaMbiza,Government,Health Centre,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.0929,35.34602
+TO310887,Mboma Estate Clinic (Conforzi),Mboma,Private,Dispensary,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,,
+MHG190888,Mbonechela Dispensary,Mbonechera,Government,Dispensary,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.88932,35.47818
+CZ260889,Mbulumbuzi Health Centre,Mbulumbuzi,Government,Health Centre,Functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.63834,35.15687
+TO310890,"Mbvundula, Presley G. Germa Pr",Germa Private clinic,Private,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-15.88722,35.06443
+ZA230891,Mbwana Private Clinic,Mbwana Private Clinic,Private,Dispensary,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-1,1
+NE300893,Mchacha Health Post,Mchacha James,Government,Health Post,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.76255,35.04739
+TO310896,Mchima Clinic,mchima,Private,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.11388,35.14018
+BT240900,Mdeka Health Centre,Mdeka,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.46769,34.94236
+BT240904,Medicare City Centre / Makadam,City Health Clinic,Mission/Faith-based (other than CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.79648,35.00797
+MH200905,Mehboob Memorial Centre,Mehboob Memorial Centre,Mission/Faith-based (other than CHAM),Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,,
+MH200906,Melboob clinic,Melbooh,Non-Government,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.36,35.17
+BT240907,Merit,Merit Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.77927,35.04387
+CK270909,Mfera Health Centre,Mfera,Government,Health Centre,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.06818,34.86724
+TO310916,Mianga Health Centre,Mianga Health Centre,Other,Health Centre,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.09883,35.07553
+BT240918,MEDI TECH PRIVATE HOSPITAL,Medi Tech Private ,Private,Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+NN290919,Midzemba,Midzemba,Government,Dispensary,Functional,South East Zone,Neno,Jan 1st 75,Before Flood,-1,1
+TO310922,Mikolongwe Health Centre,Mikolongwe,Government,Health Centre,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-15.90149,35.18367
+TO310924,Mikundi,Mikundi,Private,Dispensary,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.018751,35.125457
+ZA230926,Mikuyu,Mikuyu,Government,Clinic,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.41764,35.41968
+ZA230927,Mikuyu Adult Clinic,Mikuyu Adult Clinic,Government,Dispensary,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-1,1
+ZA230928,Mikuyu Young Clinic,Mikuyu Young Clinic,Government,Dispensary,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,,
+MJ210930,Milonde Health Centre,Milonde,Government,Health Centre,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.10264,35.47826
+MJ210931,Mimosa Dispensary,Mimosa,Government,Dispensary,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.08574,35.61263
+MJ210933,Minimini Estate Clinic,Minimini,Private,Clinic,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.05676,35.58444
+NE300936,Misamvu Health Post,Bwangu,Government,Health Post,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.76255,35.04739
+MJ210937,Misanjo,Misanjo,Christian Health Association of Malawi (CHAM),Health Post,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.088341,35.476169
+MH200938,Misolo,Misolo,Private,Dispensary,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,,
+CK270939,Misomali Health Centre,Misomali Health Centre,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.03775,34.5372
+TO310942,Mitengo Health Centre,Mitengo Health Center,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.11123,35.24591
+CK270943,Mitondo Health Post,Mitondo,Government,Health Post,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.26884,35.05789
+ZA230944,"Mitondo, Peter R. P. Prime Pri",Mitondo,Private,Dispensary,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.5261,35.48619
+NE300948,Mkango Health Post,Mkango,Government,Clinic,Non-functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.82472,35.30408
+MH200955,mkoma kamanga private clinic,Mkoma Kamanga Private Clinic,Private,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.08,34.92
+MJ210956,Mkomaula Health Centre,Mkomaula health centre,Government,Health Centre,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-15.7211,35.36672
+MH200957,Mkumba Health Centre,Mkumba,Government,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.5946,35.52517
+BT240958,Mkwaira Ladison E. L.&A,L and A,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.77528,35.04706
+MHG190959,Mkwepere Health Centre,Mkwepere,Government,Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.60286,35.63635
+NE300970,Mlolo Health Post,Mlolo,Government,Health Post,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.41959,35.1525
+MHG190971,Mlomba Dispensary,Mlomba,Government,Dispensary,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-15.01903,35.47708
+TO310978,Molere Health Centre,Molere,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.21758,35.13552
+MHG190979,Molipa,Molipa,Government,Health Post,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-15.051421,35.390936
+BT240981,Monekera,Monekera,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.835334,35.008318
+MH200982,Monkeybay Community Hospital,Monkey bay Community Hospital,Government,Hospital,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.08468,34.91104
+NN290984,Mota-Engil Clinic - Mkwinda Ca,Mota - Engil Zalewa Clinic,Other,Clinic,Non-functional,South East Zone,Neno,Jan 1st 75,Before Flood,-15.41426,34.82429
+MHG190985,Mota-Engil Liwonde Clinic,Mota-Engil Liwonde Clinic,Private,Dispensary,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-4,1500
+BT240987,Moyo PVT Clinic,Moyo,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.65374,35.02013
+BT240998,Mpemba Health Centre,Mpemba,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.87385,34.9523
+CK271000,Mphate,Mphate,Private,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.041553,34.793661
+BT241002,Madwah clinic,Mdwah ccclinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.851918836052125,35.125077523757
+BT241009,Mpingo Maternity,Mpingo Maternity,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-11.915553737897472,40.22176260662991
+MHG191010,Mpiri Health Centre,Mpiri,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.77192,35.60801
+MH201012,Mpondasi Health Centre,Mpondasi,Christian Health Association of Malawi (CHAM),Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.45347,35.24387
+MHG191014,Mposa Health Centre,Mposa,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-15.158736630489015,35.515240860866015
+MHG191017,Nselema private clinic,Nselema,Mission/Faith-based (other than CHAM),Clinic,Non-functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.72,35.55
+MJ211020,Msithe,msithe,Christian Health Association of Malawi (CHAM),Health Post,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.003061,35.412828
+BT241022,Mt Soche - c/o Nyirenda,Mt Soche,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+MHG191025,Mtambo Private Clinic,Mtambo,Private,Dispensary,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-2,1424
+BT241032,Mtengoumodzi Private Hospital,Mtengoumodzi,Private,Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.7245,35.01637
+MH201036,Mtimabi Health Centre,Mtimabi,Government,Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.61111,35.08273
+NN291043,Muferanji Clinic,Mufelanji Clinic,Private,Dispensary,Non-functional,South East Zone,Neno,Jan 1st 75,Before Flood,-15.36514,34.65447
+MJ211044,Mulanje Blm Clinic,Banja la mtsogolo,Non-Government,Clinic,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.01418,35.49317
+MJ211045,Mulanje District Hospital,Mulanje Hospital,Government,Hospital,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.02549,35.50785
+MJ211046,Mulanje Mission Hospital,ku Ulongwe,Christian Health Association of Malawi (CHAM),Hospital,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.02103,35.46436
+MH201047,Mulibwanji Hospital,Mulibwanji Community Hospital,Christian Health Association of Malawi (CHAM),Hospital,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.51145,35.58797
+MJ211048,Mulomba Health Centre,Mulomba,Government,Health Centre,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-15.76535,35.51182
+MJ211049,Muloza Heath Centre,Muloza,Government,Health Centre,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.08016,35.71573
+MHG191054,Mungomo private clinic,Mungomo,Mission/Faith-based (other than CHAM),Clinic,Non-functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.72,35.55
+BT241055,"Munthali Ndalakwanji, N, Pra","Munthali Ndalakwanji, N, Pra",Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.72915,35.05581
+BT241056,"Munthali, Joyce W Naperi medi",Joyce Munthali Private Hospital,Private,Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.8044,35.0082
+BT241057,Muopo,Muopo Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.83,35.09
+MN281059,Muyendebwino Wellness Centre,Muyendebwino,Non-Government,Clinic,Non-functional,South East Zone,Mwanza,Jan 1st 75,Before Flood,-15.57835,34.47736
+BT241062,Mwachira Private Clinic,Mwachila private clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.65548,35.02158
+BT241063,Mwai Hale Medical Skin,Mwai Medical Pvt Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.82,35.01
+BT241064,Mwai medical clinic,Mwai medical clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.817263,35.013087
+BT241065,Mwaiwathu - Mbvunbula,Proff Mbvundula,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81191,35.04788
+BT241066,Mwaiwathu Clinic,Mwaiwathu Clinic,Mission/Faith-based (other than CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+BT241067,Mwaiwathu Private Hospital,Mwaiwathu,Private,Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.78547,35.01691
+TO311068,Mwalanthuzi,Mwalanthunzi,Other,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.06408,35.106607
+BT241070,Mwanamanga Happiness,Banja Clinic,Other,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.762,34.9797
+CK271071,Mwanawanjobvu,Mwanawanjovu,Government,Clinic,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.515473,35.029718
+CK271072,Mwanayaya,Mwanayaya,Government,Health Post,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.164028,34.940736
+ZA231073,Mwandama Health Centre,Mwandama,Government,Health Centre,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.49803,35.18803
+CZ261076,MWANJE,DAPP,Government,Health Post,Non-functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.657096,35.200483
+MN281079,Mwanza BLM Clinic,Banja la mtsogolo,Non-Government,Clinic,Functional,South East Zone,Mwanza,Jan 1st 75,Before Flood,-15.59747,34.51505
+CK271080,Mwanza Clinic Area 3,Mwanza,Mission/Faith-based (other than CHAM),Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,,
+MH201083,Mwatakata Health Post,Chiunda Clinic,Government,Health Post,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.755091,35.112111
+ZA231106,Naisi Health Centre,Chopi,Government,Health Centre,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.35785,35.3849
+CZ261110,Namadzi Health Centre,Namadzi,Government,Health Centre,Functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.54663,35.18761
+CZ261111,Namadzi Private Clinic,Njoka,Private,Hospital,Non-functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.5494,35.18197
+CZ261112,"Namakhwa, Jomo. Malavi Private",Namakhwa,Private,Clinic,Non-functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.83562,35.11578
+MH201113,Namalaka Health Centre,Namalaka,Christian Health Association of Malawi (CHAM),Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.12384,35.19301
+ZA231114,Namalitha,Namalitha,Aquaid Lifeline,Dispensary,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.430886,35.490891
+MHG191115,Namandanje Health Centre,Mission,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.88211,35.48324
+MHG191116,Namanja Health Centre,Namanja,Government,Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.96543,35.67994
+MJ211118,Namasalima Health Centre,Namasalima,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-15.80407,35.3491
+BLK171121,Nambira Health Post,Nambira health post,Government,Health Post,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-14.80259,35.06411
+BT241123,Namboya Felix,Namboya Felix,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81381,35.0612
+BT241127,Namikoko Health Centre,Namikoko,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.48651,35.07379
+TO311128,Naming'omba Health Centre,Namingomba,Private,Health Centre,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.04009,35.08996
+CZ261130,Namitambo Health Centre,Namitambo,Government,Health Centre,Functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.84113,35.27019
+MJ211132,Namphungo Health Centre,Namphungo,Government,Health Centre,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-15.80407,35.3491
+MJ211133,Namulenga Health centre,namulenga health centre,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-15.86563,35.32718
+MH201134,Namwera Health Centre,Namwera,Government,Hospital,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.3637,35.50221
+MH201135,namwera private clinic,Namwera Private Clinic,Private,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.36,35.48
+MH201136,Nancholi Dispensary,Namcholi,Government,Dispensary,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.47803,35.58667
+MH201137,Nangalamu Health Centre,Nangalamu,Government,Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.48148,35.67288
+MH201138,Nankhwali Health Centre,Nankhwali,Christian Health Association of Malawi (CHAM),Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.1351,34.84488
+MH201139,Nankumba Health Centre,Nankumba,Government,Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.36521,34.82361
+MH201141,Nansenga,Nansenga,Mission/Faith-based (other than CHAM),Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,,
+BT241142,Naperi,Naperi,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+MJ211143,Naphimba Health Centre,Naphimba Health Centre,Government,Health Centre,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.045639,35.445462
+TO311145,Nasonia,Nasonia Dispensary,Private,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.02475,35.1565
+MHG191148,Nayinunje Health Centre,Nayinunje,Government,Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.7406,35.56503
+MHG191149,Nayuchi Health Centre,Nayuchi,Government,Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.97585,35.86726
+MH201151,ndagha private clinic,Ndagha Private Clinic,Private,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.48,35.25
+CK271152,Ndakwera Health Centre,ndakwera health centre,Government,Health Centre,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.22357,34.68896
+NE301153,Ndamera Health Centre,Ndamera,Government,Health Centre,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-17.09569,35.21902
+ZA231154,Ndau Clinic,Ndau Clinic,Private,Dispensary,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,,
+BT241157,Ndirande BLM,BLM Ndirande clinic,Non-Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.77364,35.03081
+BT241158,Ndirande Health Centre,Ndirande,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.7781,35.03946
+CZ261159,Ndunde Health Centre,Ndunde,Government,Health Centre,Functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.69615,35.23355
+NN291161,Neno Parish Health Centre,Neno Parish Health Center,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South East Zone,Neno,Jan 1st 75,Before Flood,-15.43701,34.60843
+NE301164,Newts Medicare Private clinic,Newts Medicare Private clinic,Private,Clinic,Non-functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.929706,35.257962
+CK271166,Ngabu Blm Clinic,Ngabu BLM,Non-Government,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.46679,34.87297
+CK271167,Ngabu Rural Hospital,Ngabu,Government,Hospital,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.45928,34.89253
+CK271168,Ngabu Sda Health Centre,Ngabu Sda Health Centre,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.46516,34.87901
+MH201170,Ngatala Health Post,Ngatala,Government,Health Post,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.65773,35.07712
+MH201172,Ngapani Sable Health Centre,Ngapani,Other,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.0296,35.33773
+MH201174,Ngatala Health Post,Ngatala,Government,Health Post,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.657656,35.077156
+MHG191177,Ngokwe Health Centre,Ngokwe,Government,Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.70706,35.80177
+MJ211178,Ngolowera,Ngolowera,Christian Health Association of Malawi (CHAM),Health Post,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.045639,35.445462
+BT241183,Ngwira W. - Limbe,Ngwira W. - Limbe,Mission/Faith-based (other than CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+MHG191184,Nice Private,Nice Private,Private,Clinic,Non-functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-15.06796,35.2282
+CZ261186,NJULI,Njuli Quary,Government,Clinic,Non-functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.706365,35.116452
+CZ261188,Nkalo Health Centre,Nkalo,Government,Health Centre,Functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.97065,35.30997
+ZA231189,Nkasala Health Centre,Nkasala,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.32778,35.21661
+NE301192,Nkhande Dispensary,Nkhande,Government,Dispensary,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-17.11489,35.15688
+TO311195,Nkhataombere,Nkhataombere,Government,Health Post,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.323986,35.264013
+CK271196,Nkhate Health Post,Mkhate,Government,Health Post,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.1467,34.95886
+TO311198,Nkhoma Private Clinic,Nkhoma Private Clinic,Private,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.07,35.14
+CK271207,Nkombedzi Health Centre,Nkombedzi Health Centre,Government,Health Centre,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.47944,34.72431
+MH201208,Nkope Health Centre,Nkope,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.19733,35.03944
+NN291209,Nkula Health Centre,Nkula,Private,Clinic,Functional,South East Zone,Neno,Jan 1st 75,Before Flood,-15.52193,34.82512
+CK271210,Nkumaniza Health Centre,Nkumaniza,Government,Health Centre,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.47944,34.72431
+TO311212,Nsabwe Health Centre,Nsabwe Health Centre,Government,Health Post,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.043512,34.952745
+NN291214,Nsambe Health Centre,Nsambe health centre,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Neno,Jan 1st 75,Before Flood,-15.26135,34.6135
+MHG191215,Nsanama Health Centre,Mission,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.99491,35.49477
+NE301216,Nsanje District Hospital,Nsanje,Government,District Hospital,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.91794,35.26001
+NE301217,Nsanje Private Clinic,Nsanje Private Clinic,Private,Clinic,Non-functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.93,35.26
+CK271220,Nsomo,Nsomo,Government,Health Post,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.036946,34.72376
+MJ211221,Nsuwadzi,Nsuwadzi,Private,Dispensary,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.084325,35.677584
+MHG191222,Ntaja Health Centre,Ntaja,Government,Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.86828,35.52911
+ZA231224,"Ntata, Anthony C.",Ntata Anthony Clinic,Private,Clinic,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.38929,35.32056
+NE301230,Nthondo,Nthondo,Government,Clinic,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-4,4
+CK271233,NTHONDO HEALTH POST,NTHONDO HEALTH POST,Government,Health Post,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.86,35.16
+MHG191234,Nthorowa Health Centre,Ntholowa,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.99492,35.57325
+BT241237,Nyambadwe ,Nyambadwe,Private,Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.77139,35.02323
+MHG191238,Nyambi Health Centre,Nyambi,Government,Health Centre,Functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.68999,35.57257
+CK271239,Nyambisoni,Nyambisoni,Private,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.460228,34.892456
+NE301240,Nyamithuthu Health Centre,Nyamithuthu,Government,Health Centre,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.68213,35.19821
+BLK171244,Nyanyala,Nyanyala  under 5 clinic,Government,Clinic,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-15.189789,34.921519
+ZA231252,Palms Private Clinic,Palms Private Clinic,Private,Dispensary,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,,
+CK271259,Pende,Pende,Government,Health Post,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.485763,34.820457
+BT241260,Pensulo,Joshua Clinic,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81,34.96
+MH201261,"Perekamoyo, William D. Mphatso",Perekamoyo,Private,Dispensary,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.08575,34.91427
+BLK171264,Phalula Health Centre,Phalula,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-15.22557,34.89322
+BT241268,Philadephia,Philadephia,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+BLK171269,Phimbi Health Centre,Phimbi,Government,Health Centre,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-15.25075,35.10716
+MH201272,Phirilongwe Health Centre,Damu,Government,Health Centre,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.58847,34.89938
+NE301274,Phokera Health Centre,Phokera,Government,Health Centre,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.62831,35.15663
+MJ211277,Phwazi Estate Clinic,Phwazi,Private,Clinic,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.01792,35.68294
+BT241279,Piereck Clinic,Evangelical,Christian Health Association of Malawi (CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.89,35.07
+BT241280,Double O Clinic ,Private clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+CZ261281,PIM Health Centre,PIM,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.75309,35.1923
+ZA231284,Police College Hospital,Police,Other,Hospital,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.39112,35.32685
+BT241285,Portland cement,Portland Cement Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.79,35.03
+BT241288,Praises Pvt Clinic ,KwaMnthali,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.761649492402414,35.06167851974283
+MH201289,precious dental and medical centre,Precious Dental and Medical centre,Private,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.48,35.26
+BT241290,PACE Clinic,PACE CLINIC,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+TO311291,Puteni,Puteni,Government,Health Post,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.043512,34.952745
+BT241292,Private Vehicle Hire Organisation,PVHO Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.78605,35.01818
+BT241293,Queen Elizabeth Central Hospital,Queen Elizabeth Central Hospital,Government,Central Hospital,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.80214,35.021
+BT241297,Rapha Pvt Clinic,Rapha Pvt Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.79,35.08
+ZA231299,Rhema clinic,Rhema,Private,Clinic,Non-functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.398069,35.324604
+MJ211303,Ruo Estate Clinic,Ruo,Private,Clinic,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.08964,35.66507
+ZA231304,RWJ Wallace Limited Clinic,RWJ Wallace Limited Clinic,Private,Dispensary,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,,
+BT241307,Saint Elgidio,DREAM Saint Egidio,Mission/Faith-based (other than CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+MJ211308,Salamba,Salamba,Christian Health Association of Malawi (CHAM),Health Post,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.108046,35.462618
+TO311313,Sam,Samu,Government,Health Centre,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.13981,35.09852
+TO311315,Sambankhanga Health Centre,sambankhanga health centre,Government,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-15.981874,35.225924
+TO311316,Sandama,sandama,Government,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.207048,35.295703
+BT241318,Sanjika Dispensary,Sanjika,Government,Dispensary,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-16.165451453126238,37.90650017569067
+NE301319,Sankhulani Health Centre,Sankhulani,Government,Health Centre,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.456861,35.258889
+CK271321,Saopa,Saopa,Government,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.485763,34.820457
+TO311322,Satemwa Tea Estate Clinic,Satemwa Dispensary,Other,Health Centre,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.07641,35.07692
+MJ211323,Sayama Clinic,Sayama,Private,Clinic,Non-functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.07107,35.5471
+BT241325,Semema Pvt Clinic ,Semema,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.73135,35.05798
+BT241330,Shifa,Shifa Private Hospital,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.78715,35.01045
+MH201333,Sinyala Dispensary,Sinyala,Government,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.58386,35.57626
+MH201334,Sister Martha Health Centre,Chigweche,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.38531,35.53555
+BT241335,Magita PVT Clinic,Magita Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.79,35.03
+BT241336,Soche Maternity,Soche Clinic,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.85726,35.02761
+BT241337,Soche SDA,Soche SDA Clinic,Christian Health Association of Malawi (CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.80918,35.01977
+BT241339,Society Medical Clinic,Society Medical Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.725756,35.058386
+MH201342,Somba Health Centre,Somba,Non-Government,Health Centre,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.64701,35.53803
+NE301343,Sorgin Health Centre,Sorgin,Government,Health Centre,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.54278,35.01159
+BT241344,Miracle Private Clinic (Manje),Miracle Private Clinic ,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.72562,35.05823
+BT241347,South Lunzu,South Lunzu,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.72678,35.05471
+TO311353,St Joseph's Health Center,St Joseph's Health Center,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,,
+CK271354,St Martin'S Clinic,St Martin'S Clinic,Private,Dispensary,Functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,,
+CK271356,St Montfort Hospital,Montfort,Christian Health Association of Malawi (CHAM),Hospital,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.25716,34.86831
+BT241357,St Vincent Health Centre,St Vincent,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.91421,34.94984
+TO311363,St. Hellena Oakley (Ntambanyama),St. Hellena Oakley (Ntambanyama),Christian Health Association of Malawi (CHAM),Dispensary,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.32104,35.20741
+MH201367,St. Johns Seminary,St. Johns Nutrition Centre,Christian Health Association of Malawi (CHAM),Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.54678,35.17842
+CZ261369,St. Joseph Hospital,Nguludi,Christian Health Association of Malawi (CHAM),Hospital,Non-functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.80173,35.16825
+MH201374,St. Martins Mission Hospital,St. Martins Mission Hospital,Christian Health Association of Malawi (CHAM),Hospital,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.34759,35.29375
+MH201379,Stuka Pvt Clinic,Stuka Pvt Clinic,Private,Dispensary,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,,
+CK271381,Sucoma Clinic Illovo (Armumend,Sucoma Clinic Illovo (Armumend,Private,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.40314,34.8832
+CK271382,Sucoma Illovo Factory Clinic,Illove factory,Private,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.25773,34.89181
+CK271383,Sucoma Kalulu Clinic,Kalulu,Private,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.24144,34.91164
+CK271384,Sucoma Lengwe,Lengwe,Other,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.20038,34.7997
+CK271385,Sucoma Mangulenje Clinic,Mangulenje,Private,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.22227,34.8544
+CK271386,Sucoma Mkombezi,Mkombezi,Other,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.27633,34.88054
+CK271387,Sucoma/Mwanza/Illovo Clinic,Mwanza Clinic,Other,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.1894,34.88065
+BT241389,Sungani's Medical centre,Sunganis Medical Centre,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.72832,35.01953
+BT241391,Sunny Side B,Sunny Side B,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.80025,34.9964
+BT241393,Tadala,Tadala Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.83304,35.0852
+BT241394,Tapima Minute Health centre,Tapima Minute Health centre,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+NN291396,Tedzani,Tedzani,Non-Government,Dispensary,Non-functional,South East Zone,Neno,Jan 1st 75,Before Flood,-15.560917,34.786382
+NE301399,Tengani Health Centre,Mpatsa,Government,Health Centre,Functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.73308,35.27015
+CK271400,Thabwani,Thabwani,Government,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.033598,34.914286
+MN281401,Thambani Health Centre,Thambani,Government,Health Centre,Functional,South East Zone,Mwanza,Jan 1st 75,Before Flood,-15.72609,34.39953
+BT241403,Thandizo- Semak,Thandizo Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.74337,35.01677
+BT241409,Thejopal Rotta. S,Thejopal Rotta. S,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.78392,35.00238
+TO311410,Thekerani Rural Hospital,Thekerani Rural Hospital,Government,Hospital,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.32104,35.20741
+MJ211411,Thembe Health Centre,Thembe Health Centre,Christian Health Association of Malawi (CHAM),Dispensary,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-16.06936,35.63033
+CK271412,Thendo,Thendo,Government,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.670226,34.879987
+CK271413,Therere,Therere,Government,Health Post,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.36776,34.682238
+TO311415,Thomasi Health Centre,Thomas Health Centre,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.02878,34.97881
+ZA231417,Thondwe Pastoral Centre,Katolika,Christian Health Association of Malawi (CHAM),Health Centre,Non-functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.49429,35.21861
+MJ211419,Thornwood Estate Clinic,Thornwood,Private,Clinic,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-8,7
+MJ211422,Thuchila Health Centre,Thuchila Health Centre,Government,Health Centre,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-7,4
+TO311423,Thukuta,Thukuta Improved Health post,Government,Health Post,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.394465,35.263278
+CZ261424,Thumbwe Health Centre,Thumbwe,Government,Health Centre,Functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-15.76823,35.24849
+TO311426,Thunga Health Centre,Thunga ,Private,Health Centre,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.00096,35.06532
+TO311428,Thyolo District Hospital,Thyolo Hospital,Government,District Hospital,Functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.06937,35.14806
+TO311429,Thyolo Private Clinic,Thyolo Private Clinic,Private,Clinic,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.07,35.14
+CK271430,Tichira,Tichira,Mission/Faith-based (other than CHAM),Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,,
+NE301431,Tikondane Clinic,Tikondane,Private,Health Centre,Non-functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.58035,35.10953
+BT241432,Tilinanu Private Medical Clinic,Tilinanu ,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.77382,35.03262
+MN281436,Tiyende Ptv Clinic,Tiyende Private Clinic,Private,Clinic,Functional,South East Zone,Mwanza,Jan 1st 75,Before Flood,-15.59467,34.51102
+NE301440,Trinity Hospital,Trinity,Christian Health Association of Malawi (CHAM),Clinic,Non-functional,South East Zone,Nsanje,Jan 1st 75,Before Flood,-16.41919,35.17154
+BT241441,Trizah Private Clinic,Tirzah,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81,35.06
+BT241442,Trumate,Trumate,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.791433,35.084593
+BT241443,Truzag,Truzag Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.81196,35.05753
+MH201447,Tulame Pvt Clinic,Tulame Pvt Clinic,Private,Dispensary,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,,
+MN281448,Tulonkhondo Health Centre,Tulonkhondo Health Centre,Government,Health Centre,Functional,South East Zone,Mwanza,Jan 1st 75,Before Flood,-15.7496,34.52277
+BT241452,Ulemu,Ulemu,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.77529,35.00207
+BLK171454,Ulongwe Health Centre,ulongwe health centre,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-14.86247,35.17734
+MH201455,Umodzi Clinic,Umodzi,Private,Clinic,Non-functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.47692,35.2643
+ZA231456,Umodzi Clinic - Aquaid Lifeline Project,Umodzi Clinic - Aquaid Lifeline Project,Private,Dispensary,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,,
+MHG191458,Umoyo Private Clinic,Umoyo,Private,Clinic,Non-functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.99987,35.49031
+BT241460,Umunthu Foundation private clinic,Umunthu Foundation private Clinic,Non-Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.84,35.1
+CK271461,Umuoneke,Umuoneke,Private,Clinic,Non-functional,South East Zone,Chikwawa,Jan 1st 75,Before Flood,-16.062656,34.819652
+BT241463,Ungweru private clinic,Ungweru,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.75,35
+BT241464,Unilever South East Private,Unilever South East Private,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+BLK171467,Utale 1 Health Centre,Utale 1,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-15.17774,35.06424
+BLK171468,Utale 2 Health Centre,Utale 2,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Balaka,Jan 1st 75,Before Flood,-15.16981,35.07239
+BT241474,Viyuyi Mathews M. Yankho Priv,Viyuyi Mathews M. Yankho Priv,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.74251,35.0776
+ZA231483,Wecare Maternity Private Clini,We care,Private,Clinic,Non-functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.37806,35.36123
+BT241484,Wehmat,Wehmat,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.8,35.01
+BT241488,White Dove,White Dove,Mission/Faith-based (other than CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.767186,34.999598
+BT241495,Yankho .,Yankho Pvt,Mission/Faith-based (other than CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,,
+NN291498,Zalewa Dapp Vct Station,Zalewa DAPP Clinic,Government,Clinic,Non-functional,South East Zone,Neno,Jan 1st 75,Before Flood,-15.44995,34.8504
+NN291499,Zalewa Pih Clinic,Zalewa PIH,Private,Clinic,Non-functional,South East Zone,Neno,Jan 1st 75,Before Flood,-15.45,34.85
+MHG191500,Zasintha Private Clinic,Zasintha,Private,Clinic,Non-functional,South West Zone,Machinga,Jan 1st 75,Before Flood,-14.74521,35.56532
+ZA231502,Zilindo Health Centre,Zilindo,Government,Clinic,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.3805,35.3013
+BT241503,Zingwangwa BLM,Zingwangwa BLM,Non-Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241504,Zingwangwa Health Centre,Zingwangwa,Government,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241505,Zingwangwa private clinic,Zingwangwa private clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.817047,35.014587
+TO311506,Zoa Health Centre,Zoa Health Centre,Government,Health Centre,Non-functional,South East Zone,Thyolo,Jan 1st 75,Before Flood,-16.23764,35.19992
+ZA231508,Zomba BLM,Banja la mtsogolo,Non-Government,Clinic,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.38919,35.31989
+ZA231509,Zomba Central Hospital,General,Government,Central Hospital,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.3994,35.31378
+ZA231510,Zomba Central Prison Clinic,Zomba Prison,Government,Clinic,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.39611,35.31248
+ZA231511,Zomba City Private Clinic,city clinic,Mission/Faith-based (other than CHAM),Clinic,Non-functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.383472,35.321326
+ZA231512,Zomba DHO Pharmacy,Zomba DHO Pharmacy,Government,Dispensary,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,,
+ZA231513,Zomba Mental Hospital,Mental,Government,Hospital,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-15.39874,35.30477
+MH201520,Chapola,Chapola,Government,Health Post,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-14.790644722780096,35.257087424400424
+MH201521,Thumu,Thumu,Government,Health Post,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-1,2
+MH201522,Maganga,Maganga,Government,Health Post,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-13.535548509713546,34.89478951875003
+MH201523,Tumbwe,Tumbwe,Government,Health Post,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-1,1
+MH201524,Makumba,Makumba,Government,Health Post,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-1,2
+MH201525,Nchisa,Nchisa,Government,Health Post,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-1,2
+MH201526,Lukoloma Health centre,Lukoloma,Government,Health Post,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-1,1
+MJ211527,Njedza  clinic,njedza,Private,Private,Functional,South West Zone,Mulanje,Jan 1st 75,Before Flood,-8,7
+MH201529,Cape Maclear ,Cape Maclear,Government,Health Post,Pending Operation (Under construction),South West Zone,Mangochi,Jan 1st 75,Before Flood,-1,2
+MN281530,ST. LUCIOUS PVT CLINIC,ST. LUCIOUS PVT CLINIC,Private,Clinic,Functional,South East Zone,Mwanza,Jan 1st 75,Before Flood,-1,2
+MN281532,EBENEZER PVT CLINIC,EBENEZER CLINIC,Private,Clinic,Functional,South East Zone,Mwanza,Jan 1st 75,Before Flood,-2,3
+MN281533,MWANZA PVT CLINIC,MWANZA CLINIC,Private,Clinic,Functional,South East Zone,Mwanza,Jan 1st 75,Before Flood,-2,3
+CZ261534,Akasale Private Clinic,Akasale,Private,Private,Functional,South East Zone,Chiradzulu,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+MN281535,LIFE STYLE PVT CLINIC,LIFE STYLE CLINIC,Private,Private,Functional,South East Zone,Mwanza,Jan 1st 75,Before Flood,-2,3
+MN281536,LIFE STYLE PVT CLINIC,LIFE STYLE PVT CLINIC,Private,Private,Functional,South East Zone,Mwanza,Jan 1st 75,Before Flood,-2,3
+MN281537,GOOD SAMARITAN PVT CLINIC,GOOD SAMARITAN PVT CLINIC,Private,Private,Functional,South East Zone,Mwanza,Jan 1st 75,Before Flood,-2,3
+MH201539,Cape Maclear,Chembe,Government,Health Post,Pending Operation (Under construction),South West Zone,Mangochi,Jan 1st 75,Before Flood,-1,2
+MH201540,Nankhwali,Nankhwali,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-1,2
+MH201541,Kapire Health Centre,Kapire,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Mangochi,Jan 1st 75,Before Flood,-1,1
+BT241543,College Of Medicine ,COM Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241544,BANGWE DAIHALIMA- MADINA CLINIC,Bangwe Madina/ Daihalima Clinic,Mission/Faith-based (other than CHAM),Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241545,Mphatso Pvt Clinic,Mphatso,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241546,BWERANI PVT CLINIC,BWERANI PVT CLINIC,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241547,ELLEY PVT CLINIC,ELLEY ,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+ZA231548,Prime PVT CLINIC,Jali pvt,Private,Private,Functional,South West Zone,Zomba,Jan 1st 75,Before Flood,-1,1
+BT241549,MAKANDE PVT CLINIC ,MAKANDE,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241550,CHIFUNDO PVT CLINIC,CHIFUNDO,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241551,CHILOMONI PVT CLINIC,CHILOMONI PVT,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241552,Malmed Clinic _ Ginnery Corner ,Malmed Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241553,BM KACHALE  CLINIC,BM KACHALE,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241554,Home Care Private Clinic ,Home Care Private Clinic,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241555,PREMIER SPECIALIST CLINIC,PREMIER CLINIC,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.779453749513038,35.06043421186117
+BT241556,MAKWASA PVT CLINIC,MAKWASA,Private,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241557,NANCHOLI YOUTH ORGANISATION,NANCHOLI YOUTH ORGANISATION,Non-Government,Clinic,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-13.2512161,34.3015278
+BT241558,Lighthouse Health Centre ,Lighthouse Health Centre ,Private,Health Centre,Functional,South East Zone,Blantyre,Jan 1st 75,Before Flood,-15.84553453331113,35.04738415359116
+ZA231416,Thondwe Dispensary,Thondwe,Government,Health Centre,Functional,South West Zone,Zomba,Jan 1st 76,Before Flood,-15.48458,35.23696
+ZA230144,Chamba Health Centre,Chamba,Government,Health Centre,Functional,South West Zone,Zomba,Jan 1st 79,Before Flood,-15.46571,35.51662
+MN281081,Mwanza District Hospital,Mwanza District Hospital,Government,District Hospital,Functional,South East Zone,Mwanza,Jan 1st 81,Before Flood,-15.59118,34.50998
+ZA230254,Chipini Rural Hospital,Chipini,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Zomba,Jan 1st 92,Before Flood,-15.39007,35.09531
+PE220502,Kalinde,Kalinde,Government,Dispensary,Functional,South West Zone,Phalombe,Jul 15th 87,Before Flood,-15.67187,35.72838
+ZA230667,Likangala Health Centre,Likangala,Government,Health Centre,Functional,South West Zone,Zomba,Jun 21st 93,Before Flood,-15.42787,35.54461
+ZA230151,Changalume Barracks,Changalume,Government,Health Centre,Functional,South West Zone,Zomba,Mar 15th 05,Before Flood,-15.3896,35.21184
+ZA231378,State House Dispensary,State house,Government,Clinic,Functional,South West Zone,Zomba,Mar 1st 79,Before Flood,-15.38153,35.31027
+ZA231109,Namadidi Health Centre,Namadidi,Government,Health Centre,Functional,South West Zone,Zomba,May 12th 12,Before Flood,-15.41079,35.24736
+MJ210108,Bondo Health Centre,Bondo health center,Government,Health Centre,Functional,South West Zone,Mulanje,May 19th 94,Before Flood,-16.04267,35.61388
+ZA231282,Pirimiti Rural Hospital,Pirimiti,Christian Health Association of Malawi (CHAM),Hospital,Functional,South West Zone,Zomba,May 2nd 60,Before Flood,-15.48302,35.45048
+NN290665,Ligowe Health Centre,ligowe health centre,Government,Health Centre,Functional,South East Zone,Neno,Oct 5th 11,Before Flood,-1,1
+PE221074,Mwanga,Mwanga,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Phalombe,Sep 5th 61,Before Flood,-15.64632,35.53221
+BT240796,Promenade medical centre,Promedence ,Private,Clinic,Functional,South East Zone,Blantyre,Aug 1st 16,After-Flood,-16.09094049063546,35.109538849723776
+ZA230014,MAIMED HEALTH CARE SERVICES,AHI,Private,Clinic,Functional,South West Zone,Zomba,Aug 1st 18,After-Flood,-15.38361,35.3223
+PE221528,Phalombe,Phalombe,Government,District Hospital,Pending Operation (Under construction),South West Zone,Phalombe,Dec 31st 19,After-Flood,-15,10
+BT240320,Come Again Private,Come Again,Other,Clinic,Functional,South East Zone,Blantyre,Dec 5th 16,After-Flood,-15.790118,35.085924
+ZA230346,Domasi College Clinic,Domasi College Clinic,Government,Dispensary,Functional,South West Zone,Zomba,Jan 17th 18,After-Flood,-15.2772234,35.3940868
+MN281531,GOLDEN GATES PVT CLINIC,GOLDEN GATES PVT CLINIC,Private,Clinic,Functional,South East Zone,Mwanza,Jan 1st 19,After-Flood,-2,1
+BLK170372,Dziwe,Dziwe,Government,Clinic,Functional,South West Zone,Balaka,Nov 19th 19,After-Flood,-542183,56821457
+PE221388,Sukasanje,Sukasanje,Christian Health Association of Malawi (CHAM),Health Centre,Functional,South West Zone,Phalombe,Nov 25th 64,Before Flood,-15.93038,35.76603
+ZA230158,Charity Fellium Private Maternity Clinic,Charity Fellium Private Maternity Clinic,Private,Clinic,Functional,South West Zone,Zomba,Nov 5th 16,After-Flood,-15.38527,35.36156
+ZA230771,Maera Health Centre,Maera,Government,Health Centre,Functional,South West Zone,Zomba,Sep 30th 15,After-Flood,-15.50987,35.1315
