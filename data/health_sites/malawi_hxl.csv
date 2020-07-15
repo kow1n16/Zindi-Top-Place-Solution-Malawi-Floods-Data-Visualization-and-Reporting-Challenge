@@ -1,0 +1,274 @@
+X,Y,osm_id,osm_type,completeness,#meta +operator,#meta +health_amenity_type,#meta+dispensing,#meta +speciality,#meta+is_in_health_zone,#capacity +staff,#loc+amenity,changeset_id,#access +hours,changeset_timestamp,#meta+emergency,#contact +url,#meta +operator_type,#meta +id,#meta+water_source,#contact +address,changeset_version,#meta+electricity,#contact +phone,#meta+insurance,#status+operational_status,#meta+is_in_health_area,#meta+wheelchair,#capacity +beds,changeset_user,#geo+bounds+url,#meta+healthcare,#loc +name
+,,"266274288",way,6,,,,,,,hospital,"65126910",,2018/12/03 14:13:11,,,,71a32ffcf0c14d25a2858de0b5c5d01b,,,"4",,,,,,,,RichNodes,,,
+33.9243820254904,-9.94060603620017,"4429368137",node,6,,,,,,,clinic,"42613169",,2016/10/03 19:15:22,,,,c898508f06274b7489d749977f16a798,,,"1",,,,,,,,Baxter,,,
+35.1232925750559,-15.941939408419,"1692074282",node,10,,,,,,,hospital,"11107502",,2012/03/26 15:55:40,,,,1e82f53f282b46ab88f8e9a25a7bc177,,,"1",,,,,,,,Domino1001,,,Chivu Health Centre
+34.0151198992001,-11.4612692663071,"3927018798",node,17,Malawi Government,,,,,,hospital,"36359368",,2016/01/04 13:15:18,yes,,,d23ce5fb1488441db6a69f9b3566f572,,,"1",,,,,,,,pmbisah,,,Mapale Health Centre
+,,"450942921",way,10,,,,,,,hospital,"43371225",,2016/11/03 06:39:03,,,,78c35d5138a04d01a9b6ae02d6146daf,,,"1",,,,,,,,alexagriffin,,,Ntaja Health Centre
+35.0224253389991,-15.8021301016751,"6461564079",node,13,,,,,,,hospital,"70069007",,2019/05/09 11:31:54,,,,f65e04562e294a9d9b2957ba526665a9,,,"1",,,,,,,,Malawi001,,hospital,Labour ward
+35.0221463892615,-15.8017159518393,"6461561642",node,13,,,,,,,hospital,"70068952",,2019/05/09 11:30:38,,,,b9b396717eb2416da9524561156a8f2c,,,"1",,,,,,,,Malawi001,,hospital,QECH Obstetric ward
+34.0045294483594,-11.4648883206403,"3927003995",node,10,,,,,,,hospital,"40211847",,2016/06/22 18:50:05,,,,024865e7636f44d082ebd1ef46877f62,,,"2",,,,,,,,YalCat,,,MACRO
+33.7629287169148,-13.981486268339,"393314003",node,10,,,,,,,pharmacy,"48882909",,2017/05/22 09:49:25,,,,27b0e3a5f54242cab4963715f1b4fd79,,,"3",,,,,,,,DomOBOW,,,Maula Pharmacies
+35.0104122277327,-16.194903402177,"3048927537",node,10,,,,,,,hospital,"25096411",,2014/08/29 13:14:23,,,,541a1ab5cb6f40638dd9059394b87e40,,,"1",,,,,,,,SeverinGeo,,,Makhwira Health Center
+35.0249286782009,-15.8067846563264,"2718556778",node,6,,,,,,,pharmacy,"21111668",,2014/03/15 06:23:16,,,,af3bbcaa1a3c4c93abd24e94bf7e5b85,,,"1",,,,,,,,Michael Chibaka,,,
+33.7812221367719,-13.9949903525419,"3089037829",node,10,,,,,,,hospital,"25579279",,2014/09/21 13:08:28,,,,6dd58a5bb44c472e914a94255d70b86b,,,"1",,,,,,,,SeverinGeo,,,Nkhoma Eye Clinic
+35.1711979177206,-16.2892347654152,"5130403047",node,6,,,,,,,hospital,"52379361",,2017/09/26 09:34:44,,,,5624d0a92ac443c5a55f2033b9618ff5,,,"1",,,,,,,,sreedevi10,,,
+35.305324629389,-15.3908484693187,"4726642889",node,10,,,,,,,hospital,"46720810",,2017/03/09 20:14:05,,,,379d8344c5c84ed6a3acfce4ce28b04e,,,"1",,,,,,,,mustskinow,,,Cobbe Barracks Health Center
+33.9365229607801,-13.6554890758496,"5344371721",node,10,,,,,,,hospital,"55513698",,2018/01/17 07:32:59,,,,d2357627c0fb4951a0b5b594ba9c5e49,,,"1",,,,,,,,Tommykaira,,,Dowa District Hospital
+35.0550246559166,-15.8126957420824,"4818854325",node,10,,,,,,,hospital,"66873063",,2019/02/03 10:26:43,,,,8f0c6a173fb84e919af84aa84d56b233,,,"2",,,,,,,,Lauretta_J,,,Kanjedza MediClinic (MASM)
+34.8818326595846,-16.2777391528508,"6463828714",node,13,,,,,,,clinic,"70100568",,2019/05/10 08:37:15,,,,0ecb4249908245c88d0fa34c0b763ba1,,,"1",,,,,,,,PeterNasoni,,clinic,Nkombezi Clinic
+,,"78605112",way,6,,,,,,,hospital,"69805670",,2019/05/02 13:56:05,,,,78b0a65e93ea4183a497c2210ac6072a,,,"7",,,,,,,,Mendenhall505,,,
+33.2659538592736,-9.70167921568688,"5597835822",node,10,,,,,,,hospital,"58697602",,2018/05/05 05:03:58,,,,8c783c55a21b4368a6a564a6d4d095a7,,,"1",,,,,,,,TylerBanda,,,Chitipa District Hospital
+34.6995020418605,-15.5960412308628,"1269920169",node,10,,,,,,,hospital,"8026829",,2011/05/01 22:48:45,,,,3b0391560aa94642b2494e32666f6800,,,"1",,,,,,,,x-ian,,,Chifunga Health Center
+35.2715796739456,-16.0968458638829,"1652927619",node,10,,,,,,,hospital,"10829324",,2012/02/29 15:57:11,,,,0718bb46eea34d01bc22924b368b3d84,,,"1",,,,,,,,Domino1001,,,Khonjeni Health Centre
+35.0872817397277,-15.8372574005898,"5828992186",node,10,,,,,,,clinic,"61618934",,2018/08/13 09:12:26,,,,dfae5445cff846e9994821388643407a,,,"1",,,,,,,,Henk Barmentlo,,,Thandizo Private Clinic
+,,"265355763",way,6,,,,,,,hospital,"24734806",,2014/08/13 23:58:52,,,,58dee55054974b0d9c3ad65e3bc818a0,,,"2",,,,,,,,4rch,,,
+,,"301531185",way,10,,,,,,,hospital,"57624124",,2018/03/29 07:51:36,,,,ff5d8b03f06842d2bcfc65b7c81d8e6b,,,"3",,,,,,,,Tommykaira,,,Daeyang Luke Hospital
+,,"419395067",way,10,,,,,,,hospital,"39416507",,2016/05/19 06:54:19,,,,34491e0258db45b3896af527dd60acb9,,,"1",,,,,,,,Zac Jezman,,,Lifeline
+35.0056573417004,-15.7859665234143,"4462709793",node,10,,,,,,,pharmacy,"69721606",,2019/04/30 06:55:54,,,,b3761c3d599d46e8bc8a80fb660bf9bf,,,"3",,,,,,,,siwulek,,,One Stop Pharmacy
+33.7642414905898,-13.984877502544,"4464672594",node,13,,,,,,,clinic,"43190466",24/7,2016/10/26 11:31:11,,,,1af7209f305b47b29407f6f95b13d5da,,,"1",,,,,,,,aquila2,,,The Clinic
+34.3357838543383,-14.3948107381369,"4456207092",node,10,,,,,,,clinic,"43028408",,2016/10/20 10:19:14,,,,da234878d7774c2f907c3629b2ce18b0,,,"1",,,,,,,,pierred,,,Partner Clinic
+,,"533164736",way,10,,,,,,,hospital,"53011912",,2017/10/17 13:33:16,,,,53362156b3104aab813e926f94a4d368,,,"1",,,,,,,,Samuel Watson,,hospital,
+35.0395941589074,-15.7780258436239,"6461395441",node,17,,,,"general;paediatrics;community",,,hospital,"70066286",,2019/05/09 10:11:56,,,,ff316862c2c141009ac67705fa511c45,,,"1",,,,,,,,jamesmeiring,,hospital,Ndirande Health Centre
+33.766967872235,-13.9847598206235,"4464691592",node,13,,,,,,,pharmacy,"43190466",Mo-Su 08:00-21:00,2016/10/26 11:31:23,,,,cdd4cdb73fcf4b5886bdd78dc9b7f475,,,"1",,,,,,,,aquila2,,,Mitch Pharmacy
+35.0044238608294,-15.7899457481269,"3241061865",node,13,,,no,,,,pharmacy,"46080396",,2017/02/14 14:23:51,,,,27279ca0cf9a43fb867f5a138a0e70e4,,,"2",,,,,,,,stanmandanda,,,Life Pharmacies
+33.712532524084,-14.0263314619741,"4875432359",node,10,,,,,,,pharmacy,"48964449",,2017/05/25 06:56:19,,,,463694a558824b73966d97b27cdb5e18,,,"1",,,,,,,,DomOBOW,,,Likuni Drug Store
+,,"266131814",way,6,,,,,,,hospital,"43267685",,2016/10/29 15:21:42,,,,03fcf4f10fb5403ea58a442cf810ff08,,,"4",,,,,,,,mikoMK,,,
+35.0206953980031,-15.8021636292878,"6461575219",node,13,,,,,,,hospital,"70069186",,2019/05/09 11:36:57,,,,795a4098890645a4a6db7c8e445c9537,,,"1",,,,,,,,Malawi001,,hospital,Adult AETC department
+33.4706657510326,-13.0409561821812,"561318036",node,10,,,,,,,hospital,"3100794",,2009/11/12 19:20:50,,,,5bb96cc74da6421182c90f77301a3437,,,"1",,,,,,,,Thomas Wagner,,,kasungu District Hospital
+,,"427995168",way,17,Medical Aid Society of Malawi,,,,,,hospital,"40367453",,2016/06/29 13:16:22,yes,,,398be7418d6a4555af12162ca8c8ecca,,,"2",,,,,,,,YalCat,,,MASM Medi Clinic
+35.1479647908662,-16.0685598743384,"476509451",node,10,,,,,,,hospital,"2301142",,2009/08/29 13:43:28,,,,a959c4a4dee147d099b993356e2622f8,,,"1",,,,,,,,Thomas Wagner,,,Thyolo District Hospital
+34.2111787332179,-10.4528037711089,"6815961885",node,17,,,,,,,clinic,"74959710",Mo-Sa 07:30-18:30,2019/09/26 12:54:17,,,,5c9b009146d44d3e8411a0759178b856,,,"2",,,,,,,,TylerBanda,,clinic,Tiwonge Private Clinic
+33.7794165910093,-13.9548134598793,"5344400621",node,10,,,,,,,hospital,"55514202",,2018/01/17 07:56:53,,,,5b7d63196b0141c88da0fef57a299f31,,,"1",,,,,,,,Tommykaira,,,Seventhday adventist helth centre
+34.3595668340409,-13.7687963135014,"6210476986",node,10,,,,,,,hospital,"66334388",,2019/01/15 14:59:45,,,,ad1f8584209145af86fd464dee4007c1,,,"1",,,,,,,,PatchTheMapper101,,hospital,
+33.7812533174517,-13.9759160745851,"3089041138",node,10,,,,,,,hospital,"25579279",,2014/09/21 13:08:32,,,,ad6b41a80f9546909a5052d31a6a1add,,,"1",,,,,,,,SeverinGeo,,,Malawi Blood Transfusion Service
+33.7661315259364,-13.9819829799211,"4946370136",node,10,,,,,,,dentist,"49975120",,2017/07/02 00:19:33,,,,513233f33a7346218087ded8008a92cf,,,"1",,,,,,,,JohnMindy Holtz,,,Minoo's Dental Clinic
+,,"631568866",way,10,,,,,,,dentist,"63277331",,2018/10/07 12:08:53,,,,34bdd2dd9ba74102a74a1aeaf3d9f3ae,,,"1",,,,,,,,Jeemil,,dentist,
+,,"631568895",way,13,,,,,,,hospital,"63277331",,2018/10/07 12:08:54,,,,5ff57f5efc974b549f68db01c0b4ac53,,,"1",,,,,,,,Jeemil,,hospital,Mwanza Hospital
+,,"238113070",way,10,,,yes,,,,pharmacy,"17855538",,2013/09/15 18:38:37,,,,834d2bc3150048438c4891ecef01d4d6,,,"1",,,,,,,,dkmw1,,,
+,,"548339543",way,13,,,,fertility,,,clinic,"70102263",,2019/05/10 09:33:20,,,,e86b4b979577490997f7a05620682483,,,"2",,,,,,,,Frans S,,clinic,
+33.7506120969345,-13.9761686213277,"1975181635",node,13,,,,,,,hospital,"13568512",,2012/10/20 14:51:23,yes,,,01cc3d193df847e9b8974ae8f4b0e7f7,,,"1",,,,,,,,nu_ichiro,,,ZMK Hospital
+33.5208265800223,-9.67965073595659,"5567732924",node,13,,,,,,,hospital,"58277160",,2018/04/20 21:44:05,,,,d0e9f15cd1544f2c960c75f219539e61,,,"1",,,,,,,,TylerBanda,,hospital,Misuku Health Centre
+35.3015189938911,-15.380588014006,"4728843789",node,10,,,,,,,hospital,"46757039",,2017/03/11 08:14:26,,,,5d36e7a46cc34dbc87ba31a846bb9b70,,,"1",,,,,,,,mustskinow,,,Zilindo Health Center
+34.9468505795873,-15.3536726332684,"1147732252",node,10,,,,,,,hospital,"25786986",,2014/10/01 10:37:53,,,,bea6d31240a84d099c8c6ed2cca4f12a,,,"2",,,,,,,,dkmw1,,,Matope Health Center
+34.8401928733611,-14.0317630190496,"5812437753",node,13,,,,,,,hospital,"65859065",,2018/12/29 07:13:21,,,,74246d5408b0409f8c451bafdd7d73e7,,,"2",,,,,,,,ballenato,,hospital,Billy Riordan Memorial Clinic
+33.7870763932244,-13.9738792721139,"5540801321",node,17,Sosola family,,,,,,pharmacy,"57946901",Mo-Su 07:30-21:30,2018/04/09 17:21:09,,,,1b712f34c0964de0a7808a04f28dde09,,,"1",,,,,,,,Aaron Glyn Sosola,,,Pharmalife Pharmacies Ltd
+33.774920370509,-13.989211617037,"5332030022",node,13,,,,,,,dentist,"55336001",Mo-Fr 09:00-16:00,2018/01/10 22:06:47,,,,a6f2726361354bd88bf333a27fd25244,,,"1",,,,,,,,MichaelMK,,,Royal Dental Clinic
+,,"447381370",way,6,,,,,,,hospital,"81652412",,2020/03/01 19:24:03,,,,b4e91883c7de4a8f8ce520152401753f,,,"2",,,,,,,,Greg_Rose,,,
+35.2400272567344,-15.700374635339,"476504013",node,10,,,,,,,hospital,"2300944",,2009/08/29 13:24:59,,,,d87b93620b044045a827911e9f416af3,,,"1",,,,,,,,Thomas Wagner,,,Ndunde Hospital
+,,"266259023",way,10,,,,,,,hospital,"24078502",,2014/07/11 09:33:29,,,,5898a35fc7c443ef81512c07b95ec5cb,,,"2",,,,,,,,bigopenmac,,,Mwaiwathu Private Hospital
+34.0264968240156,-11.4536745076606,"3926572964",node,13,Catholic Church,,,,,,hospital,"36353252",,2016/01/04 07:04:30,,,,bec41ab9cbb04e7da5b2bde7be0c0d0d,,,"1",,,,,,,,pmbisah,,,St. John of God House of Hospitality
+,,"-8828942",way,3,,,,,,,hospital,,,,,,,ac837609529c42d7af94ea998faa6e22,,,,,,,,,,,,,,
+,,"302721200",way,10,,,,,,,clinic,"25344920",,2014/09/10 09:45:52,,,,24a1161eb8f64056ab5ff3671f26d15d,,,"1",,,,,,,,Silencialschirwa,,,Muona Health Centre
+34.8757650836963,-16.2260225588132,"6463855777",node,13,,,,,,,clinic,"70100842",,2019/05/10 08:45:19,,,,ed1e3c8542694db7a94b85cb1b958f37,,,"1",,,,,,,,PeterNasoni,,clinic,Mlambe Outreach Clinic
+35.2245387569552,-15.0619153476047,"920497053",node,10,,,,,,,hospital,"5838904",,2010/09/21 17:48:15,,,,79fe7c82d6494574a6966a63ef616866,,,"3",,,,,,,,Thomas Wagner,,,Machinga District Hospital
+34.0158203748483,-11.4611594633755,"3927018799",node,10,,,,,,,hospital,"36359368",,2016/01/04 13:15:18,,,,628ab4befd0545129ec47dbaa67e0ce7,,,"1",,,,,,,,pmbisah,,,Malawi Blood Transfusion Service
+33.9244636652273,-9.94006741510222,"4429427996",node,6,,,,,,,clinic,"42613169",,2016/10/03 19:15:16,,,,3c621b2597594ec49b7f0539980d9c83,,,"1",,,,,,,,Baxter,,,
+34.6280383544982,-15.5509983081319,"1269920168",node,10,,,,,,,hospital,"39727338",,2016/06/02 07:32:03,,,,ba0b31ef54f94c7d861c4c2e983c12a0,,,"2",,,,,,,,jharps,,,Magaleta Health Center
+34.1109004934971,-10.6045374247645,"2833546442",node,13,,,,,,,hospital,"66120963",,2019/01/08 08:34:56,yes,,,a2786157224346728bd3d318b38a2aa6,,,"2",,,,,,,,siwulek,,,Livingstonia Hospital
+,,"433793228",way,13,Roman Catholic,,,,,,hospital,"41056361",,2016/07/27 08:18:59,,,,d7bdf126e94a46e1b717f15e131f028f,,,"1",,,,,,,,Silencialschirwa,,,Koche Hospital
+33.911188071705,-9.95462150031562,"4427595191",node,10,,,,,,,hospital,"42580735",,2016/10/02 11:51:16,,,,a6021740aa7f433a8f5237f327f4bcf5,,,"1",,,,,,,,Baxter,,,Karonga District Hospital
+33.924481267224,-9.94033094213802,"4429376033",node,6,,,,,,,clinic,"42613169",,2016/10/03 19:15:18,,,,6ee5466cf6e547109044a0e33b5ea530,,,"1",,,,,,,,Baxter,,,
+33.4722055904646,-14.0685944426985,"6015394185",node,10,,,,,,,hospital,"63899956",,2018/10/26 13:04:59,,,,1ba6cd3256a4456c96c4713eca7cf592,,,"1",,,,,,,,Tommykaira,,,Child Legacy int
+35.2058919560603,-15.9183527328887,"5830412187",node,10,,,,,,,hospital,"61635866",,2018/08/13 19:04:39,,,,35771281bbab470f9b3f68d512c7d086,,,"1",,,,,,,,Henk Barmentlo,,,Chipatala Hospital
+,,"599421035",way,10,,,,,,,clinic,"59983549",,2018/06/19 15:59:09,,,,61d3ad7b5b0f43b4ada2a12a0ec94900,,,"1",,,,,,,,TylerBanda,,clinic,
+,,"353260386",way,10,,,,,,,hospital,"45781049",,2017/02/03 15:07:50,,,,fe529a18faff406292f194d78f271fce,,,"2",,,,,,,,ivethk,,,Chisoka Health Center
+33.7671779227286,-13.9510407652609,"4921823617",node,10,,,,,,,hospital,"49630487",,2017/06/18 09:12:23,,,,f60e385b60f44711ba467e2444c9873b,,,"1",,,,,,,,WizaJ,,,The Women's Clinic
+34.3437565529989,-14.3971991614462,"4456207091",node,10,,,,,,,clinic,"43028408",,2016/10/20 10:19:03,,,,85df69a1e44c4bd9a03dd56cb016de1f,,,"1",,,,,,,,pierred,,,Medical Clinic
+35.3321694345018,-15.3855202611094,"2930954992",node,10,,,,,,,clinic,"23121796",,2014/06/24 12:48:21,,,,bf71c6446cd44c20962e4188aee4c466,,,"1",,,,,,,,Felefuchs,,,Chancellor College Clinic
+34.6087444706783,-15.437323775483,"1259594976",node,10,,,,,,,hospital,"7964185",,2011/04/25 14:32:30,,,,ae9170f5994b4b7bb1f23537da8e8c69,,,"1",,,,,,,,steven mtewa,,,Neno Parish Health Center
+35.3612324264705,-15.9191406317871,"6473405899",node,10,,,,,,,hospital,"70245334",,2019/05/14 17:06:52,,,,8b654cce749248a5a7dbd24c3c9f7d2c,,,"1",,,,,,,,Hankey Pangani,,,Thuchila Health Centre
+35.3851961200055,-15.3578257824718,"4726613690",node,10,,,,,,,hospital,"46720810",,2017/03/09 20:13:55,,,,27a8851be053468ca2f0f65a2ed8b627,,,"1",,,,,,,,mustskinow,,,Naisi Health Center
+35.0214986357842,-15.8019533273372,"6461573596",node,13,,,,,,,hospital,"70069161",,2019/05/09 11:36:18,,,,bc73bcca1f9f46f98b321c852c8378d8,,,"1",,,,,,,,Malawi001,,hospital,Paediatric clinics
+34.6481850969661,-15.4724405131997,"1116497340",node,10,,,,,,,hospital,"7058396",,2011/01/23 08:40:52,,,,9c428bc4bef447769f0227c7fa392bd2,,,"1",,,,,,,,x-ian,,,Ligowe Rural Health Center
+33.9112294783066,-9.95470800155638,"4484423989",node,10,,,,,,,hospital,"49133107",,2017/05/31 11:45:56,,,,fda53f0be7684b108118901e344800c4,,,"2",,,,,,,,Johnwhelan,,,Karonga District Hospital
+33.5878339447432,-12.2639557696532,"1629688666",node,10,,,,,,,hospital,"10662629",,2012/02/12 12:54:16,,,,07beb0f6af214b16bca945bbbca34503,,,"1",,,,,,,,nu_ichiro,,,Ehehleni Health Center
+,,"442603469",way,13,,,,,,,hospital,"42176562",,2016/09/15 15:35:14,yes,,,f865eb17e6f54c939ef1c932cc117d92,,,"1",,,,,,,,vcu_paul,,,Ngabu Rural Hospital
+,,"337244499",way,10,,,,,,,hospital,"30052512",,2015/04/08 00:09:13,,,,f7477b52beb74525a107a05111110478,,,"4",,,,,,,,SelahBo,,,Nakalanzi Health Centre
+34.107720231795,-10.287461930013,"476501750",node,10,,,,,,,hospital,"2300853",,2009/08/29 13:17:59,,,,3f4418c55da64dcf8dbc8c8754d194b1,,,"1",,,,,,,,Thomas Wagner,,,Nyungwe Hospital
+,,"688877839",way,13,,,,,,,hospital,"70068509",,2019/05/09 11:18:42,,,,b5fd5c2e8a254910801447cc3a2612af,,,"1",,,,,,,,Malawi001,,hospital,QECH Paediatic Moyo ward
+33.4862942285948,-12.2343549109579,"1756930182",node,10,,,,,,,hospital,"11629906",,2012/05/18 06:32:15,,,,ce49c6aa3f8646fb81d34412c81e2793,,,"1",,,,,,,,nu_ichiro,,,Vibangalala Health Centre
+35.2476251166851,-15.4101839273784,"4726583501",node,10,,,,,,,hospital,"46720810",,2017/03/09 20:13:53,,,,544e405ef51b4c85a13421357d269c91,,,"1",,,,,,,,mustskinow,,,Namadidi Health Center
+35.2580789425041,-14.4841830321816,"902487973",node,6,,,,,,,pharmacy,"5715204",,2010/09/08 09:12:16,,,,c0b02e8aa120433bbdf371432f6158ce,,,"1",,,,,,,,Biker69,,,
+,,"460602204",way,13,Malawi Ministry of Health,,,,,,hospital,"44523972",,2016/12/19 19:38:37,,,,6f912f8691f64dee862a7c9d73c80f8a,,,"1",,,,,,,,robbieflick,,,Lifuwu Health Center
+34.9495088163598,-14.9845172727956,"1078942727",node,10,,,,,,,hospital,"42211197",,2016/09/16 19:11:08,,,,c74228f040734eea91618f444f49cdcb,,,"2",,,,,,,,dkunce,,,Balaka District Hospital
+,,"258708430",way,10,,,,,,,clinic,"64279694",,2018/11/08 03:19:57,,,,41f40380cbdc4c74ae9b9288dbfef85a,,,"2",,,,,,,,crazy_mathi,,,Central Health
+34.3353108635422,-14.3850221001538,"567933548",node,10,,,,,,,hospital,"42618377",,2016/10/04 01:15:06,,,,ef566e41ab8f44819fc437134eb6be6d,,,"2",,,,,,,,Yunjie,,,Dedza Hospital
+33.7846448869328,-13.9565045088446,"6456315491",node,10,,,,,,,dentist,"69996614",,2019/05/07 19:32:52,,,,5e1d03861ecd4feea485a929aa84db0b,,,"1",,,,,,,,TylerBanda,,,Family Dental Clinic
+35.0200662523509,-15.8018582765552,"6461643909",node,13,,,,,,,hospital,"70070204",,2019/05/09 12:07:49,,,,33fb6b5293f84b3a9a9ebbc21ca3a08e,,,"1",,,,,,,,Malawi001,,hospital,Hospital Director's Office
+35.2651306376439,-14.4819540326706,"902487975",node,10,,,,,,,hospital,"19347406",,2013/12/08 20:09:01,,,,caf0a06714964c7d8118f73fc3062c09,,,"2",,,,,,,,raymondnijssen,,,District Hosptial Mangochi
+35.0054673239555,-15.7847576015196,"4462717095",node,10,,,,,,,pharmacy,"69721606",,2019/04/30 06:55:54,,,,056b0ee7a1854d6bbb4676ddad4531c8,,,"2",,,,,,,,siwulek,,,Pharma Plus Pharmacy
+,,"266274152",way,10,,,,,,,hospital,"24734806",,2014/08/13 23:58:56,,,,97ee92801c8848c0bb95b4eb67edffe1,,,"3",,,,,,,,4rch,,,Hospital
+33.2724537737276,-9.70234038020922,"5623535522",node,10,,,,,,,pharmacy,"59036145",,2018/05/17 04:51:03,,,,1a49d4b22e204e589cb260cf069adc8a,,,"1",,,,,,,,TylerBanda,,,Lufita Drug Store
+33.8669496440406,-9.80845410091945,"4969023442",node,10,,,,,,,hospital,"50265722",,2017/07/13 19:02:59,,,,fe66c1489a014ecabc74ab1766f7e707,,,"1",,,,,,,,Silencialschirwa,,,Mwamupatwa Health Centre
+,,"529181059",way,6,,,,,,,hospital,"53807326",,2017/11/15 15:44:06,,,,a2b8600ab9184ff9a65e3477aa58419f,,,"2",,,,,,,,MaptimeMorgantown_21,,,
+,,"300273761",way,10,,,,,,,hospital,"44580954",,2016/12/22 03:30:02,,,,d83b186d045b4e84ad736f93c275586b,,,"3",,,,,,,,krysscross,,,NKHOTAKOTA DISTRICT HOSPITAL
+34.1031791681127,-14.0434239227446,"5601187924",node,10,,,,,,,hospital,"58745696",,2018/05/07 05:09:06,,,,b38f69d6939c4a1c929a0a74e68b156f,,,"1",,,,,,,,Tommykaira,,,Nkhoma Hospital
+35.184114346692,-15.9013616093276,"1692074129",node,10,,,,,,,hospital,"11107502",,2012/03/26 15:55:37,,,,06d2f5939b6d46c4bd4b0a972242fdde,,,"1",,,,,,,,Domino1001,,,Mikolongwe Health Centre
+,,"460602207",way,13,Malawi Ministry of Health,,,,,,hospital,"44523972",,2016/12/19 19:38:37,,,,f9b03acd5982417595463fa840480392,,,"1",,,,,,,,robbieflick,,,Kawamba Health Center
+33.7638450265697,-13.9903576746579,"5635218825",node,6,,,,,,,clinic,"80062952",,2020/01/25 08:24:42,,,,4431f9c3ec7f415a845e6f73ba90d8a0,,,"2",,,,,,,,grebgreb,,,
+,,"412646795",way,10,,,,,,,hospital,"63653319",,2018/10/18 16:44:38,,,,6cfeaa89d8fd4c0ab62657b8cd765c3f,,,"4",,,,,,,,grebgreb,,,Mitundu Chipitala
+34.4207328504403,-13.7611226811461,"5276605424",node,10,,,,,,,hospital,"54527672",,2017/12/11 03:36:48,,,,3b29df3369664196ab3fa1c303f9ea5a,,,"1",,,,,,,,Timon Zingg,,,Salima District Hospital
+35.0105465896406,-15.7872452665625,"4741748123",node,10,,,,,,,hospital,"69721940",,2019/04/30 07:10:28,,,,0c8c15f136ea471eb1c4d441fd5e77d6,,,"2",,,,,,,,siwulek,,,Shifa Hospital
+,,"582054613",way,20,Misuku Health Centre,,,"maternity;general;paediatrics;community",,,hospital,"59327150",,2018/05/28 03:50:40,,,,3e3cd3c2d89148ba9b398fc5189f3a1f,,,"2",,,,,,,,TylerBanda,,hospital,Misuku Health Centre
+,,"548339540",way,13,,,,fertility,,,clinic,"54812092",,2017/12/21 11:29:41,,,,ecf2debbd6114e2fa6d96ab3cab4fe7b,,,"1",,,,,,,,rodin123,,clinic,
+,,"448514328",way,6,,,,,,,hospital,"43011361",,2016/10/19 15:36:41,,,,8e2b2fd68fcc4236971819531ef57ecb,,,"1",,,,,,,,Gina&Toni,,,
+34.2104958595664,-10.4538400257983,"6823009385",node,17,,,,,,,clinic,"74959710",Mo-Sa 07:30-20:00,2019/09/26 12:54:17,,,,7d6048a2d4aa41699ac05538b83246e1,,,"2",,,,,,,,TylerBanda,,clinic,Shalom Private Clinic
+35.687248142966,-15.717856770788,"476508093",node,10,,,,,,,hospital,"2301095",,2009/08/29 13:38:18,,,,bf62fb9dc0ba4a89845a7a0a166ae378,,,"1",,,,,,,,Thomas Wagner,,,Migowi Hospital Center
+35.3608918697446,-15.2990343592415,"4758263421",node,10,,,,,,,hospital,"52088039",,2017/09/16 07:25:15,,,,07af9cad50154aeaa15dee2a41970b71,,,"2",,,,,,,,Lau_23,,,H Parker Sharp Health Centre
+35.4644143250887,-16.0207154681098,"2131499938",node,10,,,,,,,hospital,"16251837",,2013/05/23 12:40:12,,,,83c6b723ce5d4524b8b8f9dffc5cbd55,,,"2",,,,,,,,alex-jagaja,,,Mulanje Mission Hospital
+35.2612370759818,-16.028665954727,"1652927633",node,10,,,,,,,hospital,"10829324",,2012/02/29 15:57:12,,,,360c9d9689d941c8b03c00b285edd549,,,"1",,,,,,,,Domino1001,,,Mangunda Health Centre
+,,"505273221",way,10,,,,,,,hospital,"50056655",,2017/07/05 11:39:14,,,,1c01f7cf8c2642b4b251033bc876c4c5,,,"1",,,,,,,,Kretzer,,,Malambo OPD
+35.0234241265812,-15.8029752489721,"6461623045",node,13,,,,,,,hospital,"70069880",,2019/05/09 11:57:48,,,,30dbf6e433b74aab859e6314b41d82ed,,,"1",,,,,,,,Malawi001,,hospital,ENT department
+34.5777961372288,-15.3865563481607,"1259577137",node,10,,,,,,,hospital,"7963983",,2011/04/25 14:11:37,,,,a37b987a6623471482530eddd4a4f689,,,"1",,,,,,,,steven mtewa,,,Dambe Health Post
+,,"479574281",way,13,Andiamo Youth Cooperative Trust,,,,,,hospital,"48930633",,2017/05/23 22:56:43,,,,1fbc141fdf1441709e22fc24f3e4c635,,,"3",,,,,,,,Johnwhelan,,,Comfort Community Hospital - OPD
+34.9118315748616,-16.2413853300447,"4439024095",node,13,,,,,,,clinic,"42754828","Mo-Fr 07:00-17:00; Sa-Su 09:00-11:00",2016/10/09 14:06:47,,,,01ca947fc6234ca28c18096e47287c73,,,"1",,,,,,,,Paul Bandawe,,,Kalulu Clinic
+,,"332881004",way,13,,,,,,,hospital,"29899516",24/7,2015/04/01 08:55:17,,,,b9904d824da04d37a6e1b69d0aafdf69,,,"3",,,,,,,,ruthmaben,,,LIKANGALA Health Center
+,,"297906807",way,10,,,,,,,dentist,"24767686",,2014/08/15 13:51:32,,,,c628a7aa46e440ce9a475205f5fb67a5,,,"1",,,,,,,,pmtemwende,,,Adventist Hospital Dental Service
+35.0236199278393,-15.8026603408699,"6461623044",node,13,,,,,,,hospital,"70069880",,2019/05/09 11:57:48,,,,1134e2cbb69b4be49d5bf343acc100aa,,,"1",,,,,,,,Malawi001,,hospital,John Hopkins Research Project
+,,"353260387",way,6,,,,,,,clinic,"31927444",,2015/06/12 17:37:28,,,,101a35ed461f4a9daf2384a35ec266e4,,,"1",,,,,,,,Devyn,,,
+33.7638450265697,-13.9903576746579,"5635218825",node,10,,,,,,,clinic,"80062952",,2020/01/25 08:24:42,,,,4431f9c3ec7f415a845e6f73ba90d8a0,,,"2",,,,,,,,grebgreb,,,Care Polyclinic Limited
+,,"507576234",way,10,,,,,,,clinic,"50284389",,2017/07/14 14:16:03,,,,5da924fec97242bb8e28a4d69743a174,,,"1",,,,,,,,Anzunga,,,Phapa Clinic
+,,"243283827",way,10,,,,,,,hospital,"25614957",,2014/09/22 23:17:17,,,,28139b19f0664a65ab2f4ea41506482b,,,"2",,,,,,,,daganzdaanda,,,Health Clinic
+33.7080585994461,-14.0279807690616,"4875559942",node,13,,,,,,,hospital,"48966426","Mo-Su 08:00-12:00, 13:30-17:00",2017/05/25 08:32:40,,,,b82e7037c64b4c098dd138a345e4d11a,,,"1",,,,,,,,DomOBOW,,,Likuni Hospital Private Ward
+34.9804896715936,-15.7758817527921,"4835074026",node,10,,,,,,,hospital,"48400920",,2017/05/04 17:29:38,,,,1f31fa54c7844a96a4cc423b37955a93,,,"1",,,,,,,,Saidi Alifa Jnr,,,Banja La Mtsogolo
+35.0236819539228,-15.801583014855,"6461551698",node,13,,,,,,,hospital,"70068797",,2019/05/09 11:27:00,,,,fc12fd1e6da24205a24219b2973208db,,,"1",,,,,,,,Malawi001,,hospital,QECH Eye department
+35.4510853388432,-15.4852235022725,"4740267125",node,10,,,,,,,hospital,"50859236",,2017/08/05 10:35:46,,,,cfe8018c94154cb08cb8198430344db6,,,"2",,,,,,,,Magelhbaen,,,Pirimiti Community Hospital
+35.0650855381149,-16.0007207733655,"1693598199",node,10,,,,,,,hospital,"11119312",,2012/03/27 18:54:01,,,,5364274ca59849b2af8409d2958fffec,,,"1",,,,,,,,Domino1001,,,Makandi Tea Estate Health Centre
+33.7415477392046,-13.9683411810491,"2031724422",node,10,,,,,,,clinic,"14796087",,2013/01/26 18:19:57,,,,1d701b2ac13947b496de3f56d41353ce,,,"2",,,,,,,,zacmccormick,,,ABC Clinic
+,,"599421036",way,10,,,,,,,clinic,"59983549",,2018/06/19 15:59:09,,,,aca1a6320a8f4ff8b86e8cbaf906f9ce,,,"1",,,,,,,,TylerBanda,,clinic,
+,,"447470767",way,6,,,,,,,hospital,"42864204",,2016/10/13 13:04:10,,,,50636dc1cd484705955801aa70cf6500,,,"1",,,,,,,,Michelastreet,,,
+34.871831540356,-16.2668492166097,"3065361682",node,10,,,,,,,pharmacy,"25289515",,2014/09/07 15:45:44,,,,5b0a12c433dd4a788f644efb02d3e7ce,,,"1",,,,,,,,SeverinGeo,,,Nchalo Medicine Shop
+34.8404943704183,-15.3476222402816,"1269919855",node,10,,,,,,,hospital,"8026819",,2011/05/01 22:47:50,,,,8d2d9bada1f24c2abe42f44131fb723c,,,"1",,,,,,,,x-ian,,,Midzemba Health Center
+33.8097917699198,-13.9318124279238,"5601188225",node,10,,,,,,,hospital,"58745696",,2018/05/07 05:09:03,,,,816b2dd2d6a84c1aa5e56338fda75f10,,,"1",,,,,,,,Tommykaira,,,MASM area43
+33.7877999191064,-14.0234490092918,"3298116661",node,10,,,,,,,hospital,"29240642",,2015/03/04 10:07:33,,,,7d54346aa5fb4792aa1d6bfdf58e5e2d,,,"2",,,,,,,,Christoph Lotz,,,Partners In Hope
+35.0221651647246,-15.8019933090153,"6461562513",node,13,,,,,,,hospital,"70068980",,2019/05/09 11:31:15,,,,601d33b8a8e5451d941ce9066a8d5116,,,"1",,,,,,,,Malawi001,,hospital,QECH Gynaecology ward
+35.0961849972786,-14.965240152782,"4726666483",node,13,Andiamo Youth Cooperative Trust,,,,,,hospital,"46721164",,2017/03/09 20:25:47,,,,23a187201cd5401690c6a74a4e49fa0e,,,"1",,,,,,,,Marcalessandro,,,Comfort Community Hospital Kapandatsitsi
+,,"367811951",way,10,,,,,,,hospital,"33619979",,2015/08/27 12:49:55,,,,d2d3bb990230407bb9c4592555a91006,,,"1",,,,,,,,mmarcus85,,,Mfera Health Center
+33.4649179447504,-9.65011994997178,"5674018523",node,10,,,,,,,clinic,"59983549",,2018/06/19 15:59:12,,,,bf40d5b217ba4dfb86affc1e748b3007,,,"2",,,,,,,,TylerBanda,,,Chuba Clinic
+,,"300035221",way,10,,,,,,,clinic,"25004069",,2014/08/25 13:46:42,,,,08efe37f8eeb486790802524ebf2142e,,,"1",,,,,,,,Ephron,,,Kakoma Health Centre
+35.0613674935051,-15.8129246518581,"4394514289",node,10,,,,,,,pharmacy,"56524433",,2018/02/20 15:50:40,,,,8788334594c54ea4b921192ef924b09f,,,"2",,,,,,,,ilf,,,Citipharm
+33.7698214911705,-13.9872487429518,"5410102521",node,17,Aaron Glyn Sosola,,,,,,pharmacy,"68204801",Mo-Su 07:30-21:30,2019/03/16 14:31:58,,,,c099ded9630c449094040efdebf8cee8,,,"3",,,,,,,,b-jazz-bot,,,PHARMALIFE Pharmacies Ltd
+,,"543515676",way,6,,,,,,,hospital,"54180958",,2017/11/29 15:31:37,,,,690c455ca1414ff9ac2df8918244cc10,,,"1",,,,,,,,Kretzer,,,
+33.3508629575165,-13.9843270629626,"6010341985",node,10,,,,,,,hospital,"63836359",,2018/10/24 15:04:52,,,,0d9263d8888d41e0aa3c637987a5655b,,,"1",,,,,,,,Tommykaira,,,St Gabriel Mission Hospital
+35.4904561438775,-15.9033013493601,"6912770486",node,10,,,,,,,hospital,"76157780",,2019/10/24 14:04:13,,,,20d01b4e59cd46699e241bc00e2e05bd,,,"1",,,,,,,,PaulMw,,,Chambe Health Center
+34.7995922754931,-16.2003155132371,"6463835248",node,13,,,,,,,clinic,"70100680",,2019/05/10 08:40:57,,,,489c0ed9a5f84d58b623ab4448f0cf1b,,,"1",,,,,,,,PeterNasoni,,clinic,Lengwe Clinic
+33.7738556173488,-13.9915874674915,"373432424",node,10,,,,,,,hospital,"450387",,2009/04/12 20:20:40,,,,b83a9036b3004aafa0db1075fc6fd454,,,"2",,,,,,,,Thomas Wagner,,,Bwaila Hospital
+35.3201002483032,-15.3889707553698,"3081624596",node,10,,,,,,,clinic,"25498365",,2014/09/17 11:27:54,,,,be9dccdc057a43d29973b8962ead53f1,,,"1",,,,,,,,Felefuchs,,,Banja la mtsogolo Clinic
+35.3910154239218,-15.6867096185952,"1612918621",node,10,,,,,,,hospital,"10548112",,2012/01/31 11:02:10,,,,18283d523ad44bb18f685ae657e75913,,,"1",,,,,,,,MADALITSO3,,,Milepa Health Centre
+,,"543141503",way,13,,,,orthopaedics,,,hospital,"62750703",,2018/09/20 05:45:56,,,,3c9893ca7b9440d9b838be992fe0e7f2,,,"2",,,,,,,,siwulek,,,CURE International Orthopedic Private Hospital
+35.165980099176,-15.8019821610841,"476504386",node,10,,,,,,,hospital,"2300968",,2009/08/29 13:26:46,,,,5527ddbadfc24eab84c1305cf03a6641,,,"1",,,,,,,,Thomas Wagner,,,Nguludi Mission Hospital
+,,"432014406",way,17,Catholic Church,,,,,,hospital,"40884891",,2016/07/20 00:25:34,yes,,,1ed7a416602b41729a2a633d10964d43,,,"1",,,,,,,,YalCat,,,St. John's Hospital
+33.9119376653058,-13.3639647232751,"561309681",node,10,,,,,,,hospital,"3100589",,2009/11/12 18:59:52,,,,56a86db8aca94ab89553c98cb3f10c2d,,,"1",,,,,,,,Thomas Wagner,,,Ntchisi Hospital
+34.9141296412547,-14.0841035619595,"4453653390",node,6,,,,,,,clinic,"42988665",,2016/10/18 16:50:44,,,,933c757dd0e8454995f9a1b8d3b45059,,,"1",,,,,,,,pierred,,,
+34.0896228646531,-13.9214989151639,"5137970517",node,6,,,,,,,hospital,"52483902",,2017/09/29 17:58:12,,,,d44f68a481c347ae87893b68fe125577,,,"1",,,,,,,,sunday chikokote,,,
+35.1814589597666,-15.9769753445891,"1692074234",node,10,,,,,,,hospital,"11107502",,2012/03/26 15:55:39,,,,e363042ad6194e6084338e75dcecd16d,,,"1",,,,,,,,Domino1001,,,Chimaliro Health Centre
+,,"543515677",way,6,,,,,,,hospital,"54180958",,2017/11/29 15:31:37,,,,25787aca45ee4bd598add57db80b5f28,,,"1",,,,,,,,Kretzer,,,
+,,"422431565",way,10,,,,,,,hospital,"39735737",,2016/06/02 14:26:58,,,,145447d6caad415da1a4714f28adac51,,,"1",,,,,,,,Heinrich Wegener,,,Rumphi District Hospital
+35.2245954186207,-14.8531637137922,"4965998321",node,10,,,,,,,clinic,"50228389",,2017/07/12 12:03:47,,,,80d283aaf738463e9b616f7a4c132e0e,,,"1",,,,,,,,Satoshi Yoshikawa,,,BALAKO DHO Health Centre
+,,"266254718",way,10,,,,,,,hospital,"21110161",,2014/03/15 02:36:43,,,,4e964de8daca4935b06484e4ef97b580,,,"1",,,,,,,,Michael Chibaka,,,Mlambe Hospital
+34.8805346380591,-16.1894739405773,"6463833509",node,13,,,,,,,clinic,"70100644",,2019/05/10 08:39:38,,,,b790f50d78894ac3aec389d31647c384,,,"1",,,,,,,,PeterNasoni,,clinic,Mwanza Clinic
+35.1716541447103,-16.4194022013006,"739232098",node,10,,,,,,,hospital,"4745498",,2010/05/19 07:07:31,,,,08ccf2ec62264eab8257ceef2406cdc6,,,"1",,,,,,,,Neil Penman,,,Trinity Hospital
+34.9615342490238,-14.9911736773819,"4100747345",node,6,,,,,,,hospital,"38333208",,2016/04/05 22:02:26,,,,75ea3c13f45c4776a8246e5155a61853,,,"1",,,,,,,,ajstamm,,,
+,,"582802358",way,13,,,,,,,hospital,"58329346",,2018/04/23 07:07:16,,,,03bad15f32964e57bde88ddd0853422a,,,"1",,,,,,,,TylerBanda,,hospital,Mwalingo Private Hospital
+34.7423165518137,-15.4797147478688,"1259589780",node,10,,,,,,,hospital,"69856698",,2019/05/03 18:25:41,,,,67780587ade94aad828b9d77f923ce50,,,"2",,,,,,,,Uluru22533,,,Luwani Health Center
+34.8857199348193,-16.4033477554191,"6463899104",node,13,,,,,,,clinic,"70101056",,2019/05/10 08:52:22,,,,7bb036e7350949aabcf0da41ff3cf9a1,,,"1",,,,,,,,PeterNasoni,,clinic,Alumenda Clinic
+,,"36074669",way,10,,,,,,,hospital,"55979155",,2018/02/01 22:02:04,,,,6d71dc7581014ad9ad3a6f935c9a4603,,,"6",,,,,,,,peace2,,,Zomba Central Hospital
+34.0173939933501,-11.4614824181048,"6802281386",node,10,,,,,,,clinic,"74581294",,2019/09/17 13:34:15,,,,65467fab4da8477c97635c9cfd926648,,,"1",,,,,,,,TylerBanda,,,Mzuzu Youth Life Centre
+,,"266274151",way,10,,,,,,,hospital,"24734806",,2014/08/13 23:58:55,,,,e1c91199c8214e4780ae767ea56692be,,,"2",,,,,,,,4rch,,,Gombwa
+34.6533533784629,-15.3951824161736,"1096948266",node,10,,,,,,,hospital,"6994221",,2011/01/16 21:36:13,,,,d61515a1ff89486381d2531a2fc8c762,,,"2",,,,,,,,x-ian,,,Neno District Hospital
+34.211276633847,-10.4527680642014,"6815961985",node,13,,,,,,,dentist,"74959710",,2019/09/26 12:54:17,,,,86de3a839c8f486f9bc1ab1a0fede325,,,"2",,,,,,,,TylerBanda,,dentist,Tiwonge Dental
+34.867655927652,-16.2567186807962,"2567672404",node,13,,,,,,,hospital,"24809474",,2014/08/17 14:45:56,yes,,,4fc2ccd4d51140c9b0338ccec2ba09c8,,,"2",,,,,,,,emirhartato,,,Montfort Hospital
+35.337203940824,-15.4839820585935,"4749114423",node,10,,,,,,,hospital,"47073151",,2017/03/22 16:44:30,,,,54accacc5c9248b3b4aa71916f0f3c63,,,"1",,,,,,,,mustskinow,,,Lambulira Health Center
+33.7921825648187,-13.9387960620099,"3068404943",node,10,,,,,,,clinic,"25329415",,2014/09/09 14:31:35,,,,5ba44ca17fa041638dd7b94f0b0d1ca2,,,"1",,,,,,,,85East,,,Lilongwe Private Clinic
+,,"460598830",way,10,,,,,,,hospital,"44523551",,2016/12/19 19:19:39,,,,45d795e509c447b182fdc576dfd5dcd4,,,"1",,,,,,,,robbieflick,,,Khongoni Health Center
+35.3595519387032,-15.3905098404305,"4749153528",node,10,,,,,,,hospital,"47073151",,2017/03/22 16:44:26,,,,a4591a782a134010a4a2bd872d7229c0,,,"1",,,,,,,,mustskinow,,,Matawale Health Center
+35.0266548473404,-15.9394923117875,"1693602252",node,10,,,,,,,hospital,"11119312",,2012/03/27 18:55:38,,,,8f9e44dc64654013b3f7a44321121a39,,,"1",,,,,,,,Domino1001,,,Makungwa Health Centre
+,,"437000574",way,17,"Ministry of Health, Balaka DHO",,,,,,hospital,"70066331",,2019/05/09 10:12:53,,,,79ea38d4746c4581951c7160bee7669e,,,"4",,,,,,,,AndyBauleni,,hospital,Namanolo Health Center
+34.8915129195597,-16.2581517347817,"4367099211",node,17,Paul Bandawe,,,,,,hospital,"44542876",Mo-Fr 07:00-17:00,2016/12/20 14:43:07,,,,4a78f72be1fa401b9fbb9dc58cca676b,,,"3",,,,,,,,Paul Bandawe,,,Occupational Health (OH) Office - Illovo
+34.8528072185421,-16.223724408601,"6463828715",node,13,,,,,,,clinic,"70100568",,2019/05/10 08:37:15,,,,7c32d5a53d3f44acb2e1d33583835c27,,,"1",,,,,,,,PeterNasoni,,clinic,Mangulenje Clinic
+,,"422892439",way,10,,,,,,,hospital,"39808724",,2016/06/05 04:17:37,,,,df59d141ed7a400e91b760bde551033e,,,"1",,,,,,,,jharps,,,Ntaja Health Post
+,,"460630261",way,13,Malawi Ministry of Health,,,,,,hospital,"44527834",,2016/12/19 22:44:11,,,,a089e06c53004efbbd51f907fe0d84e2,,,"1",,,,,,,,robbieflick,,,Mponela Rural Hospital
+33.7919098176894,-13.9379925727717,"1883763938",node,6,,,,,,,pharmacy,"12866782",,2012/08/26 14:15:57,,,,6d1cc18571d8459bad2ca7f6f7733e0c,,,"1",,,,,,,,23Michael,,,
+,,"460595807",way,13,Malawi Ministry of Health,,,,,,hospital,"44523150",,2016/12/19 19:02:15,,,,b943fbf982fc4b22ac3df8d1260690a8,,,"2",,,,,,,,robbieflick,,,Chipoka Health Centre
+34.8499232571172,-15.4479497655931,"1138046291",node,10,,,,,,,hospital,"7197565",,2011/02/05 21:38:28,,,,3ba51cf1382e42328433d728020f823b,,,"1",,,,,,,,x-ian,,,Zalewa Health Center
+34.1245452260352,-13.7301317676284,"476497668",node,10,,,,,,,hospital,"2300737",,2009/08/29 13:09:42,,,,1a9fab0b93554558a6fe08b8d85c8ba6,,,"1",,,,,,,,Thomas Wagner,,,Mvera Mission Hospital
+33.8319376801136,-14.0730265416396,"4456212490",node,10,,,,,,,clinic,"43028713",,2016/10/20 10:40:10,,,,83a3c29011d944409eb5d2851a8bbee1,,,"1",,,,,,,,pierred,,,Chacogo Medical Clinic
+,,"528803885",way,13,,,,,,,hospital,"52485716",,2017/09/29 18:38:21,yes,,,fc22db525efe4e6894bd7708da5620f6,,,"1",,,,,,,,Jones C Blackwell,,,Mangochi Martenity Wing
+34.6599028299646,-15.3218382488344,"1269919859",node,10,,,,,,,hospital,"8026819",,2011/05/01 22:47:50,,,,4371c1d37dca4bfa8afffb059496902b,,,"1",,,,,,,,x-ian,,,Matandani Health Center
+,,"528779879",way,10,,,,,,,hospital,"52482124",,2017/09/29 17:22:37,yes,,,c37d948d2cd94eb9b1e37dccdfa709cd,,,"1",,,,,,,,sunday chikokote,,,
+,,"317819938",way,13,Dr. Chilemba,,,,,,hospital,"27554437",,2014/12/18 17:10:28,,,,ac1c232af8e24889b0a5a0d40c899ba2,,,"2",,,,,,,,Justin Temwani Ng'ambi,,,Surgery Hospital
+34.5490414316588,-14.2017512005316,"3443531901",node,10,,,,,,,hospital,"30049209",,2015/04/07 20:27:25,,,,bf7abcc6419d480fb10359e03481033a,,,"1",,,,,,,,SelahBo,,,Nakalanzi Health Centre
+,,"548351490",way,10,,,,,,,hospital,"54814195",,2017/12/21 12:56:02,,,,57fde6ac933f4556a7ca3d5a43a516b6,,,"1",,,,,,,,IvarBerger,,hospital,
+35.1769451372696,-14.8621609324777,"4965986524",node,10,,,,,,,clinic,"50228389",,2017/07/12 12:03:48,,,,56966be505ed4ddcbe3c5504abef41aa,,,"1",,,,,,,,Satoshi Yoshikawa,,,ULONGWE CATHOLIC Health Centre
+,,"-5179658",way,10,,,,,,,hospital,,,,yes,,,f29fe8f374c74cb9a640ef24304f6b44,,,,,,,,,,,,,,Mulanje District Hospital
+34.1517549792122,-12.4994519610166,"477453425",node,10,,,,,,,hospital,"2314373",,2009/08/30 15:46:50,,,,a42f0081dcea4226b48cbba8188669e7,,,"1",,,,,,,,Thomas Wagner,,,Matiki Health Center
+35.0224840961403,-15.8044630367854,"6461614415",node,13,,,,,,,hospital,"70069717",,2019/05/09 11:53:25,,,,d0c79ef1c14440ce9515b844ef836eeb,,,"1",,,,,,,,Malawi001,,hospital,Medical doctors residence
+33.7878605202663,-14.0233301539048,"3008999009",node,10,,,,,,,hospital,"24659257",,2014/08/10 17:08:18,,,,a56f04b1d5464d828e64328388431c9d,,,"1",,,,,,,,SeverinGeo,,,Partners in Hope
+33.7638488822451,-13.982513470573,"4946382521",node,10,,,,,,,pharmacy,"49975120",,2017/07/02 00:15:07,,,,0cc19a4896334ecdbce066feb7cd7033,,,"1",,,,,,,,JohnMindy Holtz,,,One Stop Pharmacy
+,,"408006882",way,10,,,,,,,clinic,"38326702",,2016/04/05 18:07:33,,,,5e589932b07d44ceab68b605828af521,,,"1",,,,,,,,ajstamm,,,Ulongwe Dispensary
+34.8916078865226,-16.2582258308058,"4439097690",node,13,,,,,,,clinic,"42754828","Mo-Fr 07:00-17:00; Sa-Su 09:00-11:00",2016/10/09 14:06:49,,,,b5dd80d956eb4434883be39e6548f076,,,"1",,,,,,,,Paul Bandawe,,,Factory Clinic (Illovo)
+35.3101934254854,-15.3819044757184,"4726583502",node,10,,,,,,,hospital,"46720810",,2017/03/09 20:14:07,,,,7d3b65dc3a77448fb746140ccc01760b,,,"1",,,,,,,,mustskinow,,,State House Health Center
+35.0444302655815,-15.7036435775766,"6024795695",node,20,AMECA,,,general,,,hospital,"64010698",,2018/10/30 12:56:13,,,,61a0678f2ac1414ab2ac7c3cb382c75c,,,"1",,,,,,,,RetiredClive,,hospital,"AMECA Clinic, Chilaweni"
+35.02295071669,-15.8020654772016,"6461614416",node,13,,,,,,,hospital,"70069717",,2019/05/09 11:53:25,,,,b2c11c40e1484bd9a1158af67f01eec5,,,"1",,,,,,,,Malawi001,,hospital,Postnatal ward
+33.7642675583087,-14.0066068321501,"5359156225",node,10,,,,,,,clinic,"55716521",,2018/01/24 15:52:35,,,,5932e0fcc8cc40048d09760ac7ee060a,,,"1",,,,,,,,Tommykaira,,,Good hope pvt clinic
+,,"343963186",way,10,,,,,,,hospital,"30946086",,2015/05/09 19:23:26,,,,40360fc00b8346379db91c3d965c2b59,,,"1",,,,,,,,baeuchle,,,Nkhata District Hospital
+34.7745121962744,-15.4377334829101,"1138010578",node,10,,,,,,,hospital,"7197443",,2011/02/05 21:24:17,,,,19ff4d9b0788474d966e9b4a4d91d38d,,,"1",,,,,,,,x-ian,,,Lisungwi Community Hospital
+34.6137268415627,-15.2615322157006,"1116497342",node,10,,,,,,,hospital,"37627639",,2016/03/05 15:18:32,,,,1ead436a59464507b2c007412741a0d7,,,"2",,,,,,,,Patchi,,,Nsambe Rural Health Center
+33.5841921754524,-11.8980882107003,"1518258964",node,13,,,,,,,hospital,"13563907",,2012/10/20 05:13:09,yes,,,64f0ce108e164d00a3ccceceb5defd4a,,,"2",,,,,,,,nu_ichiro,,,Mzimba South District Hospital
+33.7664957196293,-13.9879395794114,"4456491094",node,13,,,,,,,pharmacy,"43035425",Mo-Su 08:00-20:30,2016/10/20 15:34:49,,,,a1269bc23d404fe7bc6f52eb6b904eaa,,,"1",,,,,,,,pierred,,,Leo Pharmacy
+,,"460598829",way,13,Malawi Ministry of Health,,,,,,hospital,"44523551",,2016/12/19 19:19:39,,,,3d559ef778b64074b478a8587b4a33a3,,,"1",,,,,,,,robbieflick,,,Khombedza Health Center
+34.5098374264976,-14.2822765634148,"902463253",node,10,,,,,,,hospital,"5715052",,2010/09/08 08:49:06,,,,86996f702e014246a04a76a642cc15ec,,,"1",,,,,,,,Biker69,,,Mua Mission Hospital
+,,"516826461",way,13,Ministry of Health,,,,,,hospital,"51254751",,2017/08/19 12:30:11,,,,22a56211fe28459aabe7914f02a02573,,,"1",,,,,,,,Takondwa Makawa,,,Ntcheu District Hospital
+33.7706385590918,-13.9445581175275,"6691371385",node,10,,,,,,,clinic,"73118291",,2019/08/07 15:35:09,,,,67adfcf95a0242d7b6eb5da7c10a5050,,,"1",,,,,,,,Tommykaira,,,AREA18 mediclinic
+33.766769724044,-13.9878648128351,"4464489189",node,10,,,,,,,pharmacy,"43184401",,2016/10/26 07:47:17,,,,b796a4e37d5c42089e4a57c22a310f92,,,"1",,,,,,,,aquila2,,,Leo Pharmacy
+,,"222939423",way,13,,,,,,,hospital,"18658456",,2013/11/01 20:35:38,yes,,,af3c64c65d3a4bc087bedaf87aa8f532,,,"2",,,,,,,,eknus,,,Mzuzu Central Hospital
+,,"304605565",way,10,,,,,,,hospital,"25614957",,2014/09/22 23:17:09,,,,80f28de9875d4a26901b4cfcb9d721db,,,"1",,,,,,,,daganzdaanda,,,Health Clinic
+34.4407760764039,-13.7711126524434,"5276605521",node,6,,,,,,,pharmacy,"54527672",,2017/12/11 03:36:49,,,,ed893e8c48854533adf56989b3a5ebf9,,,"1",,,,,,,,Timon Zingg,,,
+,,"688877874",way,13,,,,,,,hospital,"70068554",,2019/05/09 11:19:51,,,,ba526e9c0a024156b6b9f6197b413f43,,,"1",,,,,,,,Malawi001,,hospital,QECH Paediatric Medical Bay
+33.4751638993707,-12.1380550577593,"1023278824",node,10,,,,,,,hospital,"6554471",,2010/12/05 18:16:50,,,,9beb12f90396486b8e23124c0ebc2893,,,"1",,,,,,,,Thomas Wagner,,,Loudon Hospital
+,,"238114547",way,13,,,,,,,hospital,"18063319",,2013/09/27 16:11:45,no,,,8a7f63a126db49338269652f06fbc2b8,,,"2",,,,,,,,dkmw1,,,Mumbwe Private Hospital
+35.0214959535752,-15.8021340411696,"6461571589",node,13,,,,,,,hospital,"70069114",,2019/05/09 11:35:00,,,,8a1cea4022ed49bbace11f261f16cc4d,,,"1",,,,,,,,Malawi001,,hospital,Paediatric outpatient department
+,,"553752862",way,10,,,,,,,hospital,"55521506",,2018/01/17 13:16:22,,,,1be8ce04a7554c2cb429dc0cf33f8280,,,"1",,,,,,,,GeoFortosm User 05,,hospital,
+33.7688361984524,-13.987080182879,"4453610793",node,10,,,,,,,pharmacy,"42988665",,2016/10/18 16:50:23,,,,504160559af041dfad1d466f0a79ab73,,,"1",,,,,,,,pierred,,,Pharmcare
+33.7846974414657,-13.9772106595302,"327338377",node,10,,,,,,,hospital,"739675",,2009/01/05 17:01:52,,,,eeb4dc3fb1d7408db4f11425e7e167c2,,,"2",,,,,,,,Thomas Wagner,,,Kamuzu Central Hospital
+34.9110087234271,-14.0851359609734,"1069207432",node,10,,,,,,,hospital,"63120894",,2018/10/02 11:25:25,,,,406e050a7e234d098ba31577575464f0,,,"6",,,,,,,,siwulek,,,Monkey Bay Community Hospital
+35.0078026898177,-15.7855031718069,"6551596685",node,10,,,,,,,pharmacy,"71308789",,2019/06/16 19:46:48,,,,12282bcb79e24e6e91d3e85bce0c8404,,,"1",,,,,,,,Henry Mpakeni,,,Pharmacare Pharmacies
+35.022942753882,-15.8047701497177,"6461626491",node,13,,,,,,,hospital,"70069924",,2019/05/09 11:59:22,,,,df61fb7bd97c4cd99fc7fa270db3b9a3,,,"1",,,,,,,,Malawi001,,hospital,Malaria Alert Centre
+33.5327068381233,-9.6695534762986,"5567732925",node,17,Misuku Coffee Cooperative,,,,,,hospital,"58277160",,2018/04/20 21:44:05,,,,bf2da14127b2434dbcd81b6ba1d04dca,,,"1",,,,,,,,TylerBanda,,hospital,Mwalingo Private Hospital
+35.0394117686944,-15.7778425314015,"6461395440",node,13,,,,,,,hospital,"70066286",,2019/05/09 10:11:56,,,,9af33e18c92340a7a3b86b7c9f2f4fbd,,,"1",,,,,,,,jamesmeiring,,hospital,Blantyre Malaria Project
+33.3780964314795,-12.094191720262,"4705333647",node,10,,,,,,,hospital,"46396389",,2017/02/25 15:54:45,,,,2459e4d5bb6c48f4b553ab2083bd5adb,,,"1",,,,,,,,Alice Billington,,,Local hospital
+35.5288367946901,-14.8731706461151,"476507020",node,10,,,,,,,hospital,"2301047",,2009/08/29 13:34:37,,,,563d10ed5dfe43e28a8558196cf1c7c0,,,"1",,,,,,,,Thomas Wagner,,,Ntaja Hospital Center
+35.6071267878158,-14.7724199185124,"4478365812",node,10,,,,,,,clinic,"43371549",,2016/11/03 07:00:36,,,,74933efe9e3f41e88e1576f3539af8ba,,,"1",,,,,,,,kciarlo,,,Mpiri Health Centre
+34.6254423952664,-14.8050387652644,"3075055995",node,10,,,,,,,pharmacy,"25412291",,2014/09/13 14:28:11,,,,eb1f6bf11a2d4463a797fdc4859d7229,,,"1",,,,,,,,SeverinGeo,,,L.C. Pharmacy
+,,"363472621",way,10,,,,,,,clinic,"33031211",,2015/08/01 14:12:52,,,,77bbd67eb0694a82b3d6cd18cb4086e1,,,"1",,,,,,,,Judie Namadzunda,,,Chancellor College Clinic
+34.5953453279032,-13.7413383721714,"4857871217",node,10,,,,,,,clinic,"48733142",,2017/05/16 14:22:55,,,,ee9d3d485d7f4b5f93bf63ac3b97eb12,,,"1",,,,,,,,DomOBOW,,,Baptist Medical Clinic
+,,"304114082",way,10,,,,,,,hospital,"31743261",,2015/06/05 11:33:15,,,,0cd29e0450004411b7f720fe76efcf99,,,"2",,,,,,,,dkmw1,,,Bondo Health Center
+,,"266272663",way,10,,,,,,,hospital,"65126910",,2018/12/03 14:13:10,,,,8ee82084756c4068b22bb9faac89ecb1,,,"11",,,,,,,,RichNodes,,,Queen Elizabeth Central Hospital
+35.3154539917361,-15.3863131053306,"5333621823",node,10,,,,,,,pharmacy,"55358985",,2018/01/11 17:57:05,,,,6cc91c1f04df4bb48d08e2fec6a24447,,,"1",,,,,,,,Austin Fraley,,,Pharmacy
+33.7852029540461,-13.9772930536384,"3298120764",node,13,,,,,,,hospital,"57322419",24/7,2018/03/19 15:52:10,,,,86708e023b3242eab0fc52c22b3df6ce,,,"3",,,,,,,,Tommykaira,,,Kamuzu Central Hospital
+35.109896533585,-16.1709817019769,"1606737821",node,10,,,,,,,hospital,"10505509",,2012/01/26 18:09:56,,,,e126742508ef4b0882783a2f4c3053b5,,,"1",,,,,,,,Domino1001,,,Malamulo Rural Hospital
+,,"297141314",way,10,,,,,,,clinic,"24671755",,2014/08/11 07:54:23,,,,72f4a439450b4c5f917f88f0effccfd9,,,"1",,,,,,,,wilsonandolo,,,MacAlester Maternity Wing
+34.8817871458503,-16.2777613648942,"6463850993",node,13,,,,,,,clinic,"70100780",,2019/05/10 08:43:24,,,,3ef22476e123452cb201b830aab66700,,,"1",,,,,,,,PeterNasoni,,clinic,Nkombezi Clinic
+33.6141762547608,-12.3460125062462,"3828479257",node,13,,,,,,,hospital,"35213711",,2015/11/10 12:15:53,no,,,7bb73dc86bdc4f72a11f023a510b506d,,,"1",,,,,,,,Walter Werner,,,Katete OPD
+,,"400296855",way,13,Malawi Ministry of Health,,,,,,hospital,"37470140",,2016/02/26 19:52:33,,,,b70e296efffb4893be3e3e001313f89b,,,"1",,,,,,,,robbieflick,,,Area 18 Health Centre
+,,"399194826",way,10,,,,,,,hospital,"37363082",,2016/02/22 10:13:11,,,,8e53de94c2d54c83841b30aac87728d8,,,"1",,,,,,,,robbieflick,,,Baylor College of Medicine Children's Foundation Malawi
+33.7448822279251,-13.9176255538884,"4515826101",node,6,,,,,,,hospital,"43878345",,2016/11/22 19:09:24,,,,31209a5dac084907b527dc03aa9ea0a1,,,"1",,,,,,,,Tsitohay,,,
+33.7563272976134,-14.230124110412,"5995756825",node,6,,,,,,,hospital,"63647398",,2018/10/18 14:30:17,,,,376a8f5ac46e4b1eb33321aab43c5f2c,,,"1",,,,,,,,grebgreb,,,
+33.7096370794517,-14.0267293509177,"476655329",node,10,,,,,,,hospital,"2302852",,2009/08/29 16:22:06,,,,8d1a8c8001e24ccbaa7ae33048e37976,,,"1",,,,,,,,Thomas Wagner,,,Likuni Hospital
+35.3186159808893,-15.6869061742246,"5006650921",node,13,,,,,,,hospital,"50742322",24/7,2017/08/01 08:11:48,,,,f43efbca1b8a41f7b2605603a30416f6,,,"1",,,,,,,,mark kumcheza,,,milepa health centre
+33.9918693379871,-12.233927433896,"3743886309",node,17,Ministry of Health,,,,,,hospital,"34036132",,2015/09/15 09:08:10,,,,6a879aae0d2941c9aa53699bda291dd3,,,"1",,,,,,yes,,Megan Rossi,,,Dwambazi Rural Hospital
+33.8079736513024,-13.9570674374617,"6691333087",node,10,,,,,,,clinic,"73118291",,2019/08/07 15:35:11,,,,f9b732436e5a43968c25127ee0e99300,,,"1",,,,,,,,Tommykaira,,,MASM Area12 clinic
+,,"478245158",way,13,Andiamo Youth Cooperative Trust,,,,,,hospital,"46544800",,2017/03/03 10:00:21,,,,7bb462f886204c1c9efad6a368f00da9,,,"1",,,,,,,,Marcalessandro,,,Andiamo Comfort Community Hospital
+,,"279197509",way,13,,,,,,,hospital,"47761972",,2017/04/14 01:39:11,yes,,,dfeff3a752844b19b24485c2c360551b,,,"5",,,,,,,,Lexi Johnson,,,Seventh Day Adventist Hospital
+35.0216206762944,-15.8024824768845,"6461577785",node,13,,,,,,,hospital,"70069233",,2019/05/09 11:38:21,,,,cb4ba510e687457ea5e407c69ce3402c,,,"1",,,,,,,,Malawi001,,hospital,Family planning clinic
+,,"654790087",way,13,,,,,,,hospital,"65452587",,2018/12/13 19:32:43,,,,c91d0de6f1dd41f5ab3fa7545a4d7e02,,,"1",,,,,,,,Kennedy89,,hospital,Chikuse Health Center
+34.5689653831403,-16.0789505006075,"3053315247",node,20,Anglican Church,,,,,,hospital,"25156453",,2014/09/01 10:27:11,,,private,834019d141264ac2a0ff4f19528b89c6,,,"1",,,,,,,,Anzunga,survey,,Anglican Hospital
+,,"706918316",way,13,,,,,,,hospital,"72592007",,2019/07/24 09:15:30,,,,a95334c25eb6464f92bcb8d4938fb010,,,"1",,,,,,,,Kennedy Kind Zembere,,hospital,Namasalima health centre
+33.9263576400684,-9.93875028283756,"4430590190",node,6,,,,,,,pharmacy,"42626558",,2016/10/04 11:03:01,,,,516da516013e4de5a463a200def40440,,,"1",,,,,,,,Baxter,,,
+,,"317820445",way,10,Dr. Chilemba,,,,,,hospital,"27554387",,2014/12/18 17:06:42,,,,c34d6ac30a1b4004977ad9c7376b726e,,,"1",,,,,,,,Justin Temwani Ng'ambi,,,
+,,"435267017",way,10,,,,,,,clinic,"41188854",,2016/08/02 10:38:16,,,,2be9c7abf38a4b91baae79b35fdbc1b4,,,"2",,,,,,,,dkmw1,,,Lifuwu Health Center
+35.0226626306779,-15.8016698513719,"6461643908",node,13,,,,,,,hospital,"70070204",,2019/05/09 12:07:49,,,,c98abc5ce9584ff09e6ed792ed0ddedc,,,"1",,,,,,,,Malawi001,,hospital,Chatinkha Nursery
+,,"496988497",way,6,,,,,,,clinic,"49114084",,2017/05/30 20:16:12,,,,4c2366ffcd65496b85de715e7e646f8a,,,"1",,,,,,,,qusi,,,
+35.6061423332881,-14.7729956714414,"4478365813",node,10,,,,,,,clinic,"43371549",,2016/11/03 07:00:36,,,,334f7741a3164c919bbef7cc2b697b73,,,"1",,,,,,,,kciarlo,,,Mpiri Health Centre (Old)
+35.6500930940355,-14.8919013498609,"4362825003",node,10,,,,,,,clinic,"41638419",,2016/08/23 13:36:12,,,,e9a4f551383f4e439d005d1bfd79b291,,,"1",,,,,,,,Anzunga,,,Ntuluko Health Facility
+33.7783590462859,-13.9532783143131,"5344400622",node,6,,,,,,,dentist,"55514202",,2018/01/17 07:56:54,,,,0bf29d99cdc9436f81cfc265a8b74f54,,,"1",,,,,,,,Tommykaira,,,
